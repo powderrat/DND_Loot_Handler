@@ -1,0 +1,26 @@
+iditem_table_e,tablee_Roll,itemId,itemName,itemType,itemDescription
+1,30,78,"Spell scroll (8th level)",Scroll,"A spell scroll bears the words of a single spell, written in a mystical cipher.
+ If the spell is on your class’s spell list, you can read the scroll and cast its spell without providing any material components.
+ Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell’s normal casting time. Once the spell is cast,
+ the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.
+If the spell is on your class’s spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully.
+ The DC equals 16. On a failed check, the spell disappears from the scroll with no other effect.
+This scroll contains a 6th level spell. The spell's saving throw DC is 17 and attack bonus is +9
+A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, 
+the copier must succeed on an Intelligence (Arcana) check with a DC equal to 16. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed."
+2,55,83,"Potion of storm giant strength",potion,"When you drink this potion, your Strength score changes to 29 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score. 
+This potion's transparent liquid has floating in it a sliver of fingernail from a storm giant."
+3,70,67,"Potion of Supreme Healing",Potion,"You regain 10d4 + 20 hit points when you drink this potion. The potion's red liquid glimmers when agitated"
+4,85,84,"Spell Scroll(9th level)",Scroll,"A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class’s spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell’s normal casting time.
+ Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.
+If the spell is on your class’s spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 19. On a failed check, the spell disappears from the scroll with no other effect.
+This scroll contains a 9th level spell. The spell's saving throw DC is 19 and attack bonus is +11.
+A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 19. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed."
+5,93,85,"Universal solvent",Item,"This tube holds milky liquid with a strong alcohol smell. You can use an action to pour the contents of the tube onto a surface within reach. 
+The liquid instantly dissolves up to 1 square foot of adhesive it touches, including sovereign glue."
+6,98,86,"Arrow of slaying",Arrow,"An arrow of slaying is a magic weapon meant to slay a particular kind of creature. Some are more focused than others; for example, there are both arrows of dragon slaying and arrows of blue dragon slaying. If a creature belonging to the type, race, or group associated with an arrow of slaying takes damage from the arrow, 
+the creature must make a DC 17 Constitution saving throw, taking an extra 6d10 piercing damage on a failed save, or half as much extra damage on a successful one.
+Once an arrow of slaying deals its extra damage to a creature, it becomes a nonmagical arrow.
+Other types of magic ammunition of this kind exist, such as bolts of slaying meant for a crossbow, though arrows are most common."
+7,100,87,"Sovereign glue",Item,"This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with oil of slipperiness. When found, a container contains 1d6 + 1 ounces.
+One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the application of universal solvent or oil of etherealness, or with a wish spell."

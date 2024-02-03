@@ -1,0 +1,460 @@
+iditem_table_h,tableh_Roll,itemId,itemName,itemType,itemDescription
+1,10,234,"Weapon +3",Weapon,"Weapon with +3 attack Roll"
+2,12,235,"Amulet of the planes",Item,"
+While wearing this amulet, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check. On a successful check, 
+you cast the plane shift spell. On a failure, you and each creature and object within 15 feet of you travel to a random destination.
+ Roll a d100. On a 1–60, you travel to a random location on the plane you named. On a 61–100, you travel to a randomly determined plane of existence."
+3,14,236,"Carpet of flying",Item,"You can speak the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.
+Four sizes of carpet of flying exist. The DM chooses the size of a given carpet or determines it randomly.
+Size	Capacity	Flying Speed
+3 ft. x 5 ft.	200 lb.	80 feet
+4 ft. x 6 ft.	400 lb.	60 feet
+5 ft. x 7 ft.	600 lb.	40 feet
+6 ft. x 9 ft.	800 lb.	30 feet
+A carpet can carry up to twice the weight shown on the table, but it flies at half speed if it carries more than its normal capacity."
+4,16,237,"Crystal ball (very rare version)",Item,"The typical crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the scrying spell (save DC 17) with it.
+The following crystal ball variants are legendary items and have additional properties.
+Crystal Ball of Mind Reading. You can use an action to cast the detect thoughts spell (save DC 17) while you are scrying with the crystal ball, targeting creatures you can see within 30 feet of the spell’s sensor.
+ You don’t need to concentrate on this detect thoughts to maintain it during its duration, but it ends if scrying ends.
+Crystal Ball of Telepathy. While scrying with the crystal ball, you can communicate telepathically with creatures you can see within 30 feet of the spell’s sensor. 
+You can also use an action to cast the suggestion spell (save DC 17) through the sensor on one of those creatures. You don’t need to concentrate on this suggestion to maintain it during its duration, but it ends if scrying ends. Once used, the suggestion power of the crystal ball can’t be used again until the next dawn.
+Crystal Ball of True Seeing. While scrying with the crystal ball, you have truesight with a radius of 120 feet centered on the spell’s sensor."
+5,18,238,"Ring of regeneration",Item,"While wearing this ring, you regain 1d6 hit points every 10 minutes, provided that you have at least 1 hit point. 
+If you lose a body part, the ring causes the missing part to regrow and return to full functionality after 1d6 + 1 days if you have at least 1 hit point the whole time."
+6,20,239,"Ring of shooting stars",Item,"While wearing this ring in dim light or darkness, you can cast dancing lights and light from the ring at will. Casting either spell from the ring requires an action.
+The ring has 6 charges for the following other properties. The ring regains 1d6 expended charges daily at dawn.
+Faerie Fire. You can expend 1 charge as an action to cast faerie fire from the ring.
+Ball Lightning. You can expend 2 charges as an action to create one to four 3-foot-diameter spheres of lightning. The more spheres you create, the less powerful each sphere is individually.
+Each sphere appears in an unoccupied space you can see within 120 feet of you. The spheres last as long as you concentrate (as if concentrating on a spell), up to 1 minute. Each sphere sheds dim light in a 30-foot radius.
+As a bonus action, you can move each sphere up to 30 feet, but no farther than 120 feet away from you. When a creature other than you comes within 5 feet of a sphere, the sphere discharges lightning at that creature and disappears. That creature must make a DC 15 Dexterity saving throw. On a failed save, the creature takes lightning damage based on the number of spheres you created.
+Spheres	Lightning Damage
+4	2d4
+3	2d6
+2	5d4
+1	4d12
+Shooting Stars. You can expend 1 to 3 charges as an action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of you. Each creature within a 15-foot cube originating from that point is showered in sparks and must make a DC 15 Dexterity saving throw, taking 5d4 fire damage on a failed save, or half as much damage on a successful one."
+7,22,240,"Ring of telekinesis",Item,"While wearing this ring, you can cast the telekinesis spell at will, but you can target only objects that aren't being worn or carried."
+8,24,241,"Robe of scintillating colors",Item,"This robe has 3 charges, and it regains 1d3 expended charges daily at dawn. While you wear it, you can use an action and expend 1 charge to
+ cause the garment to display a shifting pattern of dazzling hues until the end of your next turn. During this time, the robe sheds bright light in a 30-foot radius and dim light for an additional 30 feet.
+ Creatures that can see you have disadvantage on attack rolls against you. In addition, any creature in the bright light that can see you when the robe's power is activated must succeed on a DC 15 Wisdom saving throw or
+ become stunned until the effect ends."
+9,26,242,"Robe of stars",Item,"This black or dark blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.
+Six stars, located on the robe's upper front portion, are particularly large. 
+While wearing this robe, you can use an action to pull off one of the stars and use it to cast magic missile as a 5th-level spell. Daily at dusk, 1d6 removed stars reappear on the robe.
+While you wear the robe, you can use an action to enter the Astral Plane along with everything you are wearing and carrying. 
+You remain there until you use an action to return to the plane you were on. You reappear in the last space you occupied, or if that space is occupied, the nearest unoccupied space."
+10,28,243,"Rod of absorption",Item,"While holding this rod, you can use your reaction to absorb a spell that is targeting only you and not with an area of effect. 
+The absorbed spell's effect is canceled, and the spell's energy -- not the spell itself -- is stored in the rod. The energy has the same level as the spell when it was cast.
+ The rod can absorb and store up to 50 levels of energy over the course of its existence. Once the rod absorbs 50 levels of energy, 
+it can't absorb more. If you are targeted by a spell that the rod can't store, the rod has no effect on that spell.
+When you become attuned to the rod, you know how many levels of energy the rod has absorbed over the course of its existence, and how many levels of spell energy it currently has stored.
+If you are a spellcaster holding the rod, you can convert energy stored in it into spell slots to cast spells you have prepared or know. You can create spell slots only of a level equal to or lower than your own spell slots,
+ up to a maximum of 5th level. You use the stored levels in place of your slots, but otherwise cast the spell as normal. For example, you can use 3 levels stored in the rod as a 3rd-level spell slot.
+
+A newly found rod has 1d10 levels of spell energy stored in it already. A rod that can no longer absorb spell energy and has no energy remaining becomes nonmagical."
+11,30,244,"Rod of alertness",Item,"This rod has a flanged head and the following properties.
+
+Alertness: While holding the rod, you have advantage on Wisdom (Perception) checks and on rolls for initiative.
+
+Spells: While holding the rod, you can use an action to cast one of the following spells from it: detect evil and good, detect magic, detect poison and disease, or see invisibility.
+
+Protective Aura: As an action, you can plant the haft end of the rod in the ground, whereupon the rod's head sheds bright light in a 60-foot radius and dim light for an additional 60 feet. While in that bright light, you and any creature that is friendly to you gain a +1 bonus to AC and saving throws and can sense the location of any invisible hostile creature that is also in the bright light.
+
+The rod's head stops glowing and the effect ends after 10 minutes, or when a creature uses an action to pull the rod from the ground. This property can't be used again until the next dawn.
+Rod Of Alertness
+adventuring gear (rod)
+Category: Items
+Item Rarity: Very Rare
+Weight: 2"
+12,32,245,"Rod of security",Item,"While holding this rod, you can use an action to activate it. 
+The rod then instantly transports you and up to 199 other willing creatures you can see to a paradise that exists in an extraplanar space. You choose the form that the paradise takes. It could be a tranquil garden,
+ lovely glade, cheery tavern, immense palace, tropical island, fantastic carnival, or whatever else you can imagine. Regardless of its nature, the paradise contains enough water and food to sustain its visitors. 
+ Everything else that can be interacted with inside the extraplanar space can exist only there. For example, 
+a flower picked from a garden in the paradise disappears if it is taken outside the extraplanar space.
+For each hour spent in the paradise, a visitor regains hit points as if it had spent 1 Hit Die. Also, creatures don't age while in the paradise, 
+although time passes normally. Visitors can remain in the paradise for up to 200 days divided by the number of creatures present (round down).
+When the time runs out or you use an action to end it, all visitors reappear in the location they occupied when you activated the rod, or an unoccupied space nearest that location. The rod can't be used again until ten days have passed."
+13,34,246,"Rod of the pact keeper, +3",Item,"Rod, uncommon (+1), rare (+2), or very rare (+3) (requires attunement by a warlock)
+While holding this rod, you gain a bonus to spell attack rolls and to the saving throw DCs of your warlock spells. This bonus is determined by the rod's rarity.
+In addition, you can regain one warlock spell slot as an action while holding the rod. You can't use this property again until you finish a long rest."
+14,36,247,"Scimitar of speed",Item,"You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.
+Proficiency with a scimitar allows you to add your proficiency bonus to the attack roll for any attack you make with it"
+15,38,248,"Shield +3",Item,"Shield with +3 AC"
+16,40,249,"Staff of fire",Item,"You have resistance to fire damage while you hold this staff.
+The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, 
+using your spell save DC: burning hands (1 charge), fireball (3 charges), or wall of fire (4 charges).
+The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff blackens, crumbles into cinders, and is destroyed."
+17,42,250,"Staff of frost",Item,"You have resistance to cold damage while you hold this staff.
+The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it,
+ using your spell save DC: cone of cold (5 charges), fog cloud (1 charge), ice storm (4 charges), or wall of ice (4 charges).
+The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff turns to water and is destroyed."
+18,44,251,"Staff of power",Item,"This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it.
+ While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
+The staff has 20 charges for the following properties. The staff regains 2d8 + 4 expended charges daily at dawn. If you expend the last charge, 
+roll a d20. On a 1, the staff retains its +2 bonus to attack and damage roll but loses all other properties. On a 20, the staff regain 1d8 + 2 charges.
+Power Strike: When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra 1d6 force damage to the target.
+Spells: While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: cone of cold (5 charges), fireball (5th-level version, 5 charges), globe of invulnerability (6 charges),
+ hold monster (5 charges), levitate (2 charges), lightning bolt (5th-level version, 5 charges), magic missile (1 charge), ray of enfeeblement (1 charge), or wall of force (5 charges).
+Retributive Strike: You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-foot-radius sphere centered on it.
+You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 x the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. 
+On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
+Distance from Origin — Damage:
+10 ft. away or closer — 8 x the number of charges in the staff
+11 to 20 ft. away — 6 x the number of charges in the staff
+21 to 30 ft. away — 4 x the number of charges in the staff
+Staff Of Power
+adventuring gear (staff)
+Category: Items
+Item Rarity: Very Rare
+Modifiers: Ac +2, Saving Throws +2, Spell Attack +2
+Weight: 4"
+19,46,252,"Staff of striking",Item,"This staff can be wielded as a magic quarterstaff that grants a +3 bonus to attack and damage rolls made with it.
+The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 of its charges. For each charge you expend, the target takes an extra 1d6 force damage.
+ The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff becomes a nonmagical quarterstaff."
+20,48,253,"Staff of thunder and lightning",Item,"This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.
+Lightning. When you hit with a melee attack using the staff, you can cause the target to take an extra 2d6 lightning damage.
+Thunder. When you hit with a melee attack using the staff, you can cause the staff to emit a crack of thunder, audible out to 300 feet. The target you hit must succeed on a DC 17 Constitution saving throw or become stunned until the end of your next turn.
+Lightning Strike. You can use an action to cause a bolt of lightning to leap from the staff's tip in a line that is 5 feet wide and 120 feet long. Each creature in that line must make a DC 17 Dexterity saving throw,
+ taking 9d6 lightning damage on a failed save, or half as much damage on a successful one.
+Thunderclap. You can use an action to cause the staff to issue a deafening thunderclap, audible out to 600 feet. Each creature within 60 feet of you (not including you) must make a DC 17 Constitution saving throw. On a failed save, a creature takes 2d6 thunder damage and becomes deafened for 1 minute. On a successful save, a creature takes half damage and isn't deafened.
+Thunder and Lightning. You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one."
+21,50,254,"Sword of sharpness",Item,"When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.
+When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 14 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, 
+with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead.
+In addition, you can speak the sword's command word to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.
+Applicable Weapons:
+Name	Type	Damage	Properties
+Greatsword	Martial Melee	2d6 slashing	Heavy, two-handed
+Longsword	Martial Melee	1d8 slashing	Versatile (1d10)
+Scimitar	Martial Melee	1d6 slashing	Finesse, light"
+22,52,255,"Wand of polymorph",Item,"This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the polymorph spell (save DC 15) from it.
+The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed."
+23,54,256,"Wand of the war mage, +3",Item,"While holding this wand, you gain a +3 bonus to spell attack rolls. In addition, you ignore half cover when making a spell attack."
+24,55,257,"Adamantine armor (half plate)",Item,"Half Plate	Medium	15+ Dex modifier (max 2)	--	Disadvantage"
+25,56,258,"Adamantine armor (plate)",Item,"Plate	Heavy	18	Strength 15	Disadvantage"
+26,57,259,"Animated shield",Item,"While holding this shield, you can speak its command word as a bonus action to cause it to animate.
+ The shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The shield remains animated for 1 minute, until you use a bonus action to end this effect,
+ or until you are incapacitated or die, at which point the shield falls to the ground or into your hand if you have one free.
+A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time."
+27,58,260,"Belt of fire giant strength",Item,"When attuned, the belt sets your Strength to 25."
+28,59,261,"Belt of frost giant",Item,"While wearing this belt, your Strength score changes to a score granted by the belt. 
+The item has no effect on you if your Strength without the belt is equal to or greater than the belt’s score.
+Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. 
+The belt of stone giant strength and the belt of frost giant strength look different, but they have the same effect.
+Belt of Hill Giant Strength	21	Rare
+Belt of Frost Giant Strength	23	Very Rare
+Belt of Stone Giant Strength	23	Very Rare
+Belt of Fire Giant Strength	25	Very Rare
+Belt of Cloud Giant Strength	27	Legendary
+Belt of Storm Giant Strength	29	Legendary"
+29,60,262,"Belt of stone giant",Item,"While wearing this belt, your Strength score changes to a score granted by the belt. 
+The item has no effect on you if your Strength without the belt is equal to or greater than the belt’s score.
+Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. 
+The belt of stone giant strength and the belt of frost giant strength look different, but they have the same effect.
+Belt of Hill Giant Strength	21	Rare
+Belt of Frost Giant Strength	23	Very Rare
+Belt of Stone Giant Strength	23	Very Rare
+Belt of Fire Giant Strength	25	Very Rare
+Belt of Cloud Giant Strength	27	Legendary
+Belt of Storm Giant Strength	29	Legendary"
+30,61,263,"Armor, +l breastplate",Item,"Breastplate
+medium armor (armor)
+AC: 14
+Category: Items
+Weight: 20"
+31,62,264,"Armor of resistance (breastplate)",Item,"You have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.
+d10	Damage Type
+1	Acid
+2	Cold
+3	Fire
+4	Force
+5	Lightning
+6	Necrotic
+7	Poison
+8	Psychic
+9	Radiant
+10	Thunder
+Applicable Armor:
+Name	Type	AC	Strength	Stealth
+Padded	Light	11 + Dex modifier	--	Disadvantage
+Leather	Light	11 + Dex modifier	--	--
+Studded Leather	Light	12 + Dex modifier	--	--
+Hide	Medium	12 + Dex modifier (max 2)	--	--
+Chain Shirt	Medium	13 + Dex modifier (max 2)	--	--
+Scale Mail	Medium	14 + Dex modifier (max 2)	--	Disadvantage
+Breastplate	Medium	14 + Dex modifier (max 2)	--	--
+Half Plate	Medium	15 + Dex modifier (max 2)	--	Disadvantage
+Ring Mail	Heavy	14	--	Disadvantage
+Chain Mail	Heavy	16	Strength 13	Disadvantage
+Splint	Heavy	17	Strength 15	Disadvantage
+Plate	Heavy	18	Strength 15	Disadvantage"
+32,63,265,"Armor, +2 chain mail",Item,"Chain Mail +2
+heavy armor
+AC: 16
+Category: Items
+Modifiers: Ac +2
+Stealth: Disadvantage
+Weight: 55"
+33,64,266,"Armor, +2 chain shirt",Item,"You have a +2 bonus to AC while wearing this armor.
+Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. 
+This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers."
+34,65,267,"Cloak of arachnida",Item,"This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:
+You have resistance to poison damage.
+You have a climbing speed equal to your walking speed.
+You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
+You can't be caught in webs of any sort and can move through webs as if they were difficult terrain.
+You can use an action to cast the web spell (save DC 13). The web created by the spell fills twice its normal area. Once used, this property of the cloak can't be used again until the next dawn."
+35,66,268,"Dancing sword",Item,"You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it.
+ The sword uses your attack roll and ability score modifier to damage rolls.
+While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.
+After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. 
+If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.
+Applicable Weapons:
+Name	Type	Damage	Properties
+Greatsword	Martial Melee	2d6 slashing	Heavy, two-handed
+Longsword	Martial Melee	1d8 slashing	Versatile (1d10)
+Rapier	Martial Melee	1d8 piercing	Finesse
+Scimitar	Martial Melee	1d6 slashing	Finesse, light
+Shortsword	Martial Melee	1d6 piercing	Finesse, light"
+36,67,269,"Demon armor",Item,"While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, 
+the armor’s clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, 
+with a +1 bonus to attack rolls and damage rolls and a damage die of 1d8.
+Curse. Once you don this cursed armor, you can’t doff it unless you are targeted by the remove curse spell or similar magic. While wearing the armor, 
+you have disadvantage on attack rolls against demons and on saving throws against their spells and special abilities.
+Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body."
+37,68,270,"Dragon scale mail",Item,"Dragon scale mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them to humanoids. Other times,
+ hunters carefully skin and preserve the hide of a dead dragon. In either case, dragon scale mail is highly valued.
+While wearing this armor, you gain a +1 bonus to AC, you have advantage on saving throws against the Frightful Presence and breath weapons of dragons,
+ and you have resistance to one damage type that is determined by the kind of a dragon that provided the scales (see the table).
+Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest dragon of the type of armor within 30 miles of you. 
+This special action can't be used again until the next dawn.
+Dragon	Resistance
+Black	Acid
+Blue	Lightning
+Brass	Fire
+Bronze	Lightning
+Copper	Acid
+Gold	Fire
+Green	Poison
+Red	Fire
+Silver	Cold
+White	Cold"
+38,69,271,"Dwarven plate",Item,"While wearing this armor, you gain a +2 bonus to AC. In addition, if an effect moves you against your will along the ground, 
+you can use your reaction to reduce the distance you are moved by up to 10 feet.
+Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. 
+Buckles and straps distribute the weight over the body."
+39,70,272,"Dwarven thrower",Item,"You gain a +3 bonus to attack and damage rolls made with this magic weapon. It has the thrown property with a normal range of 20 feet and a long range of 60 feet. 
+When you hit with a ranged attack using this weapon, 
+it deals an extra 1d8 damage or, if the target is a giant, 2d8 damage. Immediately after the attack, the weapon flies back to your hand.
+Proficiency with a warhammer allows you to add your proficiency bonus to the attack roll for any attack you make with it."
+40,71,273,"Efreeti bottle",Item,"This painted brass bottle weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke flows out of the bottle. 
+At the end of your turn, the smoke disappears with a flash of harmless fire, and an efreeti appears in an unoccupied space within 30 feet of you.
+The first time the bottle is opened, the GM rolls to determine what happens.
+d100	Effect
+01-10	The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears, and the bottle loses its magic.
+11-90	The efreeti serves you for 1 hour, doing as you command. Then the efreeti returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic.
+91-00	The efreeti can cast the wish spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic."
+41,72,274,"Figurine of wondrous power (obsidian steed)",Item,"A figurine of wondrous power is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, 
+or if there isn't enough space for the creature, the figurine doesn't become a creature.
+The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.
+The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. 
+It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.
+Obsidian Steed. This polished obsidian horse can become a nightmare for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.
+If you have a good alignment, the figurine has a 10 percent chance each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the nightmare while it is ignoring your orders, you and the nightmare are instantly transported to a random location on the plane of Hades, where the nightmare reverts to figurine form."
+42,73,275,"Frost brand",Item,"When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.
+In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+When you draw this weapon, you can extinguish all non-magical flames within 30 feet of you. This property can be used no more than once per hour.
+Applicable Weapons:
+Name	Type	Damage	Properties
+Greatsword	Martial Melee	2d6 slashing	Heavy, two-handed
+Longsword	Martial Melee	1d8 slashing	Versatile (1d10)
+Rapier	Martial Melee	1d8 piercing	Finesse
+Scimitar	Martial Melee	1d6 slashing	Finesse, light
+Shortsword	Martial Melee	1d6 piercing	Finesse, light"
+43,74,276,"Helm of brilliance",Item,"This dazzling helm is set with 1d10 diamonds, 2d10 rubies, 3d10 fire opals,
+ and 4d10 opals. Any gem pried from the helm crumbles to dust. When all the gems are removed or destroyed, the helm loses its magic.
+You gain the following benefits while wearing it:
+• You can use an action to cast one of the following spells (save DC 18), using one of the helm's gems of the specified type as a component: daylight (opal), 
+fireball (fire opal), prismatic spray (diamond), or wall of fire (ruby). The gem is destroyed when the spell is cast and disappears from the helm.
+• As long as it has at least one diamond, the helm emits dim light in a 30-foot radius when at least one undead is within that area. Any undead that starts its turn in that area takes 1d6 radiant damage.
+• As long as the helm has at least one ruby, you have resistance to fire damage.
+• As long as the helm has at least one fire opal, you can use an action and speak a command word to cause one weapon you are holding to burst into flames. 
+The flames emit bright light in a 10-foot radius and dim light for an additional 10 feet. The flames are harmless to you and the weapon. When you hit with an attack using the blazing weapon,
+ the target takes an extra 1d6 fire damage. 
+The flames last until you use a bonus action to speak the command word again or until you drop or stow the weapon.
+Roll a d20 if you are wearing the helm and take fire damage as a result of failing a saving throw against a spell. On a roll of 1, the helm emits beams of light from its remaining gems. Each creature within 60 feet of the helm other than you must succeed on a DC 17 Dexterity saving throw or be struck by a beam, taking radiant damage equal to the number of gems in the helm. The helm and its gems are then destroyed.
+"
+44,75,277,"Horn of Valhalla (bronze)",Item,"You can use an action to blow this horn. In response, 4d4+4 warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a berserker. They return to Valhalla after 1 hour or when they drop to 0 hit points. 
+Once you use the horn, it can't be used again until 7 days have passed.
+If you blow the horn without having proficiency with all medium armor, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands."
+45,76,278,"Instrument of the bards (Anstruth harp)",Item,"An instrument of the bards is an exquisite example of its kind, superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a legendary bard college. The following table lists the spells common to all instruments, as well as the spells specific to each one and its rarity.
+ A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 psychic damage.
+You can use an action to play the instrument and cast one of its spells. Once the instrument has been used to cast a spell, it can’t be used to cast that spell again until the next dawn. 
+The spells use your spellcasting ability and spell save DC.
+You can play the instrument while casting a spell that causes any of its targets to be charmed on a failed saving throw, thereby imposing disadvantage on the save. 
+This effect applies only if the spell has a somatic or a material component.
+Confusion, control weather, fire storm"
+46,77,279,"loun stone (absorption)",Item,"An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist,
+ each type a distinct combination of shape and color.
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter,
+ another creature must use an action to grasp or net the stone to separate it from you, 
+either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+Absorption (Very Rare). While this pale lavender ellipsoid orbits your head, you can use your reaction to cancel a spell of 4th level or lower cast by a creature you can see and targeting only you.
+Once the stone has canceled 20 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left,
+ the stone can’t cancel it."
+47,78,280,"loun stone (agility)",Item,"An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, 
+another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check.
+ You can use an action to seize and stow the stone, ending its effect.
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+Your Dexterity score increases by 2, to a maximum of 20, while this deep red sphere orbits your head."
+48,79,281,"loun stone (fortitude)",Item,"An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, 
+another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check.
+ You can use an action to seize and stow the stone, ending its effect.
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+Your Constitution score increases by 2, to a maximum of 20, while this pink rhomboid orbits your head."
+49,80,282,"loun stone (insight)",Item,"An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, 
+another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check.
+ You can use an action to seize and stow the stone, ending its effect.
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+Your Wisdom score increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head."
+50,81,283,"loun stone (intellect)",Item,"An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, 
+another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check.
+ You can use an action to seize and stow the stone, ending its effect.
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+Your Intelligence score increases by 2, to a maximum of 20, while this marbled scarlet and blue sphere orbits your head."
+51,82,284,"loun stone (leadership)",Item,"An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, 
+another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check.
+ You can use an action to seize and stow the stone, ending its effect.
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+Your Charisma score increases by 2, to a maximum of 20, while this marbled pink and green sphere orbits your head."
+52,83,285,"loun stone (strength)",Item,"An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, 
+another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check.
+ You can use an action to seize and stow the stone, ending its effect.
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+Your Strength score increases by 2, to a maximum of 20, while this pale blue rhomboid orbits your head."
+53,84,286,"Armor, +2 leather",Item,"Leather	Light	 11 + Dex modifier + 2"
+54,85,287,"Manual of bodily health",Item,"This book contains health and diet tips, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, 
+your Constitution score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century."
+55,86,288,"Manual of gainful exercise",Item,"This book describes fitness exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, 
+your Strength score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century."
+56,87,289,"Manual of golems",Item,"This tome contains information and incantations necessary to make a particular type of golem. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. 
+A creature that can't use a manual of golems and attempts to read it takes 6d6 psychic damage.
+d20	Golem	Time	Cost
+1-5	Manual of Clay Golems	30 days	65,000 GP
+6-17	Manual of Flesh Golems	60 days	50,000 GP
+18	Manual of Iron Golems	120 days	100,000 GP
+19-20	Manual of Stone Golems	90 days	80,000 GP
+To create a golem, you must spend the time shown on the table, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay the specified cost to purchase supplies.
+Once you finish creating the golem, the book is consumed in eldritch flames. The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands."
+57,88,290,"Manual of quickness of action",Item,"This book contains coordination and balance exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Dexterity score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century."
+58,89,291,"Mirror of life trapping",Item,"When this 4-foot-tall mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, 10 hit points, and vulnerability to bludgeoning damage. It shatters and is destroyed when reduced to 0 hit points.
+
+If the mirror is hanging on a vertical surface and you are within 5 feet of it, you can use an action to speak its command word and activate it. It remains activated until you use an action to speak the command word again.
+
+Any creature other than you that sees its reflection in the activated mirror while within 30 feet of it must succeed on a DC 15 Charisma saving throw or be trapped, along with anything it is wearing or carrying, in one of the mirror's twelve extradimensional cells. This saving throw is made with advantage if the creature knows the mirror's nature, and constructs succeed on the saving throw automatically.
+
+An extradimensional cell is an infinite expanse filled with thick fog that reduces visibility to 10 feet. Creatures trapped in the mirror's cells don't age, and they don't need to eat, drink, or sleep. A creature trapped within a cell can escape using magic that permits planar travel. Otherwise, the creature is confined to the cell until freed.
+
+If the mirror traps a creature but its twelve extradimensional cells are already occupied, the mirror frees one trapped creature at random to accommodate the new prisoner. A freed creature appears in an unoccupied space within sight of the mirror but facing away from it. If the mirror is shattered, all creatures it contains are freed and appear in unoccupied spaces near it.
+
+While within 5 feet of the mirror, you can use an action to speak the name of one creature trapped in it or call out a particular cell by number. The creature named or contained in the named cell appears as an image on the mirror's surface. You and the creature can then communicate normally.
+
+In a similar way, you can use an action to speak a second command word and free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
+Show Attribute List
+Attributes
+Mirror Of Life Trapping
+adventuring gear (wondrous item)
+Category: Items
+Item Rarity: Very Rare
+Weight: 50"
+59,90,292,"Nine lives stealer",Item,"You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+
+The sword has 1d8 + 1 charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.
+
+Applicable Weapons:
+
+Name	Type	Damage	Properties
+Greatsword	Martial Melee	2d6 slashing	Heavy, two-handed
+Longsword	Martial Melee	1d8 slashing	Versatile (1d10)
+Rapier	Martial Melee	1d8 piercing	Finesse
+Scimitar	Martial Melee	1d6 slashing	Finesse, light
+Shortsword	Martial Melee	1d6 piercing	Finesse, light"
+60,91,293,Oathbow,Item,"When you nock an arrow on this bow, it whispers in Elvish, 'Swift defeat to my enemies.' When you use this weapon to make a ranged attack, you can, as a command phrase, say, Swift death to you who have wronged me.' The target of your attack becomes your sworn enemy until it dies or until dawn seven days later. You can have only one such sworn enemy at a time. When your sworn enemy dies, you can choose a new one after the next dawn.
+
+When you make a ranged attack roll with this weapon against your sworn enemy, you have advantage on the roll. In addition, your target gains no benefit from cover, other than total cover, and you suffer no disadvantage due to long range. If the attack hits, your sworn enemy takes an extra 3d6 piercing damage.
+
+While your sworn enemy lives, you have disadvantage on attack rolls with all other weapons.
+
+Proficiency with a longbow allows you to add your proficiency bonus to the attack roll for any attack you make with it."
+61,92,294,"Armor, +2 scale mall",Item,"Scale Mail	Medium	 14 + Dex modifier (max 2) + 2	 --	 Disadvantage"
+62,93,295,"Spellguard shield",Item,"While holding this shield, you have advantage on saving throws against spells and other magical effects, and spell attacks have disadvantage against you.
+
+A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time."
+63,94,296,"Armor, +1 splint",Item,"Splint	Heavy	 17 + 1	 Strength 15	 Disadvantage"
+64,95,297,"Armor, +1 studded leather",Item,"Studded Leather	Light	 12 + Dex modifier + 1"
+65,96,298,"Armor of resistance (splint)",Item,"You have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.
+
+d10	Damage Type
+1	Acid
+2	Cold
+3	Fire
+4	Force
+5	Lightning
+6	Necrotic
+7	Poison
+8	Psychic
+9	Radiant
+10	Thunder
+Applicable Armor:
+
+Name	Type	AC	Strength	Stealth
+Padded	Light	11 + Dex modifier	--	Disadvantage
+Leather	Light	11 + Dex modifier	--	--
+Studded Leather	Light	12 + Dex modifier	--	--
+Hide	Medium	12 + Dex modifier (max 2)	--	--
+Chain Shirt	Medium	13 + Dex modifier (max 2)	--	--
+Scale Mail	Medium	14 + Dex modifier (max 2)	--	Disadvantage
+Breastplate	Medium	14 + Dex modifier (max 2)	--	--
+Half Plate	Medium	15 + Dex modifier (max 2)	--	Disadvantage
+Ring Mail	Heavy	14	--	Disadvantage
+Chain Mail	Heavy	16	Strength 13	Disadvantage
+Splint	Heavy	17	Strength 15	Disadvantage
+Plate	Heavy	18	Strength 15	Disadvantage"
+66,97,299,"Armor of resistance (studded leather)",Item,"You have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.
+
+d10	Damage Type
+1	Acid
+2	Cold
+3	Fire
+4	Force
+5	Lightning
+6	Necrotic
+7	Poison
+8	Psychic
+9	Radiant
+10	Thunder
+Applicable Armor:
+
+Name	Type	AC	Strength	Stealth
+Padded	Light	11 + Dex modifier	--	Disadvantage
+Leather	Light	11 + Dex modifier	--	--
+Studded Leather	Light	12 + Dex modifier	--	--
+Hide	Medium	12 + Dex modifier (max 2)	--	--
+Chain Shirt	Medium	13 + Dex modifier (max 2)	--	--
+Scale Mail	Medium	14 + Dex modifier (max 2)	--	Disadvantage
+Breastplate	Medium	14 + Dex modifier (max 2)	--	--
+Half Plate	Medium	15 + Dex modifier (max 2)	--	Disadvantage
+Ring Mail	Heavy	14	--	Disadvantage
+Chain Mail	Heavy	16	Strength 13	Disadvantage
+Splint	Heavy	17	Strength 15	Disadvantage
+Plate	Heavy	18	Strength 15	Disadvantage"
+67,98,300,"Tome of clear thought",Item,"This book contains memory and logic exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Intelligence score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century"
+68,99,301,"Tome of leadership and influence",Item,"This book contains guidelines for influencing and charming others, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Charisma score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century."
+69,100,302,"Tome of understanding",Item,"This book contains intuition and insight exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Wisdom score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century."

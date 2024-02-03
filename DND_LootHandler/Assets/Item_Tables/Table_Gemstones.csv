@@ -1,0 +1,53 @@
+id_gemstones,gemstone_name,gemstone_value
+1,Azurite,10
+2,"Banded Agate",10
+3,"Blue Quartz",10
+4,"Eye Agate",10
+5,Hermatite,10
+6,"Lapis Lazuli",10
+7,Malachite,10
+8,"Moss Agate",10
+9,Obsidian,10
+10,Rhodochrosite,10
+11,"Tiger Eye",10
+12,Turquoise,10
+13,Bloodstone,50
+14,Carnelian,50
+15,Chalcedony,50
+16,Chrysoprase,50
+17,Citrine,50
+18,Jasper,50
+19,Moonstone,50
+20,Onyx,50
+21,Quartz,50
+22,Sardonyx,50
+23,"Star Rose Quartz",50
+24,Zircon,50
+25,Amber,100
+26,Amethest,100
+27,Chrysoberyl,100
+28,Coral,100
+29,Garnet,100
+30,Jade,100
+31,Jet,100
+32,Pearl,100
+33,Spinel,100
+34,Tourmaline,100
+35,Alexandrite,500
+36,Aquamarine,500
+37,"Black Pearl",500
+38,"Blue Spinel",500
+39,Peridot,500
+40,Topaz,500
+41,"Black Opal",1000
+42,"Blue Sapphire",1000
+43,Emerald,1000
+44,"Fire Opal",1000
+45,Opal,1000
+46,"star Ruby",1000
+47,"Star Sapphire",1000
+48,"Yellow Sapphire",1000
+49,"Black Sapphire",5000
+50,Diamond,5000
+51,Jacinth,5000
+52,Ruby,5000

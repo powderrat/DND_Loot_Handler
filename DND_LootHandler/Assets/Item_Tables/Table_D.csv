@@ -1,0 +1,74 @@
+iditem_table_d,tabled_Roll,itemId,itemName,itemType,itemDescription
+1,20,67,"Potion of Supreme Healing",Potion,"You regain 10d4 + 20 hit points when you drink this potion. The potion's red liquid glimmers when agitated"
+2,30,68,"Potion of Invisibility",Potion,"Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. 
+That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
+When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it."
+3,40,69,"Potion of Speed",Potion,"the target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns.
+ That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
+When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it."
+4,50,70,"Spell scroll (6th level)",Scroll,"A spell scroll bears the words of a single spell, written in a mystical cipher.
+ If the spell is on your class’s spell list, you can read the scroll and cast its spell without providing any material components.
+ Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell’s normal casting time. Once the spell is cast,
+ the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.
+If the spell is on your class’s spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully.
+ The DC equals 16. On a failed check, the spell disappears from the scroll with no other effect.
+This scroll contains a 6th level spell. The spell's saving throw DC is 17 and attack bonus is +9
+A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, 
+the copier must succeed on an Intelligence (Arcana) check with a DC equal to 16. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed"
+5,57,71,"Spell scroll (7th level)",Scroll,"A spell scroll bears the words of a single spell, written in a mystical cipher.
+ If the spell is on your class’s spell list, you can read the scroll and cast its spell without providing any material components.
+ Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell’s normal casting time. Once the spell is cast,
+ the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.
+If the spell is on your class’s spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully.
+ The DC equals 16. On a failed check, the spell disappears from the scroll with no other effect.
+This scroll contains a 6th level spell. The spell's saving throw DC is 17 and attack bonus is +9
+A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, 
+the copier must succeed on an Intelligence (Arcana) check with a DC equal to 16. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed"
+6,62,72,"Ammunition, +3",item,"You have a +3 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical."
+7,67,73,"Oil of sharpness",item,"This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition.
+ Applying the oil takes 1 minute. For 1 hour, the coated item is magical and has a +3 bonus to attack and damage rolls."
+8,72,74,"Potion of flying",Potion,"When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover.
+ If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft."
+9,77,75,"Potion of cloud giant strength",Potion,"When you drink this potion, your Strength score changes to 27 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score. 
+This potion's transparent liquid has floating in it a sliver of fingernail from a cloud giant."
+10,82,76,"Potion of longevity",Potion,"When you drink this potion, your physical age is reduced by 1d6 + 6 years, to a minimum of 13 years. Each time you subsequently drink a potion of longevity, there is 10 percent cumulative chance that you instead age by 1d6 + 6 years. 
+Suspended in this amber liquid are a scorpion's tail, an adder's fang, a dead spider, and a tiny heart that, against all reason, is still beating. These ingredients vanish when the potion is opened."
+11,87,77,"Potion of vitality",Potion,"When you drink this potion, it removes any exhaustion you are suffering and cures any disease or poison affecting you. For the next 24 hours, 
+you regain the maximum number of hit points for any Hit Die you spend. The potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat."
+12,92,78,"Spell scroll (8th level)",Scroll,"A spell scroll bears the words of a single spell, written in a mystical cipher.
+ If the spell is on your class’s spell list, you can read the scroll and cast its spell without providing any material components.
+ Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell’s normal casting time. Once the spell is cast,
+ the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.
+If the spell is on your class’s spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully.
+ The DC equals 16. On a failed check, the spell disappears from the scroll with no other effect.
+This scroll contains a 6th level spell. The spell's saving throw DC is 17 and attack bonus is +9
+A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, 
+the copier must succeed on an Intelligence (Arcana) check with a DC equal to 16. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed."
+13,95,79,"Horseshoes of a zephyr",item,"These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they allow the creature to move normally while floating 4 inches above the ground. This effect means the creature can cross or stand above nonsolid or unstable surfaces, such as water or lava. The creature leaves no tracks and ignores difficult terrain. 
+In addition, the creature can move at normal speed for up to 12 hours a day without suffering exhaustion from a forced march."
+14,98,80,"Nolzur's marvelous pigments",item,"Typically found in 1d4 pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions.
+ The paint flows from the brush to form the desired object as you concentrate on its image.
+Each pot of paint is sufficient to cover 1,000 square feet of a surface, which lets you create inanimate objects or terrain features—such as a door, a pit, flowers, trees, cells, rooms, or weapons— that are up to 10,000 cubic feet. It takes 10 minutes to cover 100 square feet.
+When you complete the painting, the object or terrain feature depicted becomes a real, nonmagical object. 
+Thus, painting a door on a wall creates an actual door that can be opened to whatever is beyond. Painting a pit on a floor creates a real pit, and its depth counts against the total area of objects you create.
+Nothing created by the pigments can have a value greater than 25 gp. 
+If you paint an object of greater value (such as a diamond or a pile of gold), the object looks authentic, but close inspection reveals it is made from paste, bone, or some other worthless material.
+If you paint a form of energy such as fire or lightning,
+ the energy appears but dissipates as soon as you complete the painting, doing no harm to anything."
+15,99,81,"Bag of devouring",item,"This bag superficially resembles a bag of holding but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
+
+The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a 50 percent chance that the creature is pulled inside the bag. A creature inside the bag can use its action to try to escape with a successful DC 15 Strength check. Another creature can use its action to reach into the bag to pull a creature out, doing so with a successful DC 20 Strength check (provided it isn't pulled inside the bag first). Any creature that starts its turn inside the bag is devoured, its body destroyed.
+
+Inanimate objects can be stored in the bag, which can hold a cubic foot of such material. However, once each day, the bag swallows any objects inside it and spits them out into another plane of existence. The DM determines the time and plane.
+
+If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane."
+16,100,82,"Portable hole",item,"This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
+
+You can use an action to unfold a portable hole and place it on or against a solid surface, whereupon the portable hole creates an extradimensional hole 10 feet deep. The cylindrical space within the hole exists on a different plane, so it can't be used to create open passages. Any creature inside an open portable hole can exit the hole by climbing out of it.
+
+You can use an action to close a portable hole by taking hold of the edges of the cloth and folding it up. Folding the cloth closes the hole, and any creatures or objects within remain in the extradimensional space. No matter what's in it, the hole weighs next to nothing.
+
+If the hole is folded up, a creature within the hole's extradimensional space can use an action to make a DC 10 Strength check. On a successful check, the creature forces its way out and appears within 5 feet of the portable hole or the creature carrying it. A breathing creature within a closed portable hole can survive for up to 10 minutes, after which time it begins to suffocate.
+
+Placing a portable hole inside an extradimensional space created by a bag of holding, handy haversack, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. 
+The gate then closes. The gate is one-way only and can't be reopened."

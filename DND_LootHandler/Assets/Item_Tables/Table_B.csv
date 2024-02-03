@@ -1,0 +1,95 @@
+iditem_table_b,tableb_Roll,itemId,itemName,itemType,itemDescription
+1,15,6,"Potion of Greater Healing",Potion,"You regain 4d4 + 4 hit points when you drink this potion"
+2,22,9,"Potion of Fire breath",Potion,"After drinking this potion, you can use a bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 1 hour has passed.
+This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened."
+3,29,10,"Potion of resistance",Potion,"you gain resistance to one type of damage for 1 hour"
+4,34,11," Ammunition, +1 ",Item,"You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical."
+5,39,12,"Potion of animal friendship",Potion,"When you drink this potion, you can cast the animal friendship spell (save DC 13) for 1 hour at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair."
+6,44,13,"Potion of hill giant strength",Potion,"your Strength score changes to 21 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score. This potion's transparent liquid has floating in it a sliver of fingernail from a hill giant."
+7,49,14,"Potion of Growth",Potion,"When you drink this potion, you gain the 'enlarge' effect of the enlarge/reduce spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts."
+8,54,15,"Potion of Water Breathing",Potion,"You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it."
+9,59,5,"Spell scroll(2nd level)",Scroll,"Allows you to cast spell once without mats or learn it"
+10,64,16,"Spell scroll (3rd level)",Scroll,"Allows you to cast spell once without mats or learn it"
+11,67,7,"Bag Of Holding",Item,"Can hold up to 500 lbs while weighing only 15,if the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered "
+12,70,17,"Keoghtom's Ointment",Item,"This glass jar, 3 inches in diameter, contains 1d4 + 1 doses of a thick mixture that smells faintly of aloe. The jar and its contents weigh 1/2 pound. As an action, one dose of the ointment can be swallowed or applied to the skin. The creature that receives it regains 2d8 + 2 hit points, ceases to be poisoned, and is cured of any disease."
+13,73,18,"Oil of slipperiness",Potion,"This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature(one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a freedom of movement spell for 8 hours. Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, grease spell in that area for 8 hours."
+14,75,19,"Dust of disappearance",Item,"Found in a small packet, this powder resembles very fine sand. There is enough of it for one use. When you use an action to throw the dust into the air, you and each creature and object within 10 feet of you become invisible for 2d4 minutes. The duration is the same for all subjects, and the dust is consumed when its magic takes effect. If a creature affected by the dust attacks or casts a spell, the invisibility ends for that creature."
+15,77,20,"Dust of dryness",Item,"This small packet contains 1d6 + 4 pinches of dust. You can use an action to sprinkle a pinch of it over water. The dust turns a cube of water 15 feet on a side into one marble-sized pellet, which floats or rests near where the dust was sprinkled. 
+An elemental composed mostly of water that is exposed to a pinch of the dust must make a DC 13 Constitution saving throw, taking 10d6 necrotic damage on a failed save, or half as much damage on a successful one."
+16,79,21,"Dust of sneezing and choking",Item,"When you use an action to throw a handful of the dust into the air, you and each creature that needs to breathe within 30 feet of you must succeed on a DC 15 Constitution saving throw or become unable to breathe. A creature affected in this way is incapacitated and suffocating. As long as it is conscious, a creature can repeat the saving throw at the end of each of its turns. The lesser restoration spell can also end the effect on a creature."
+17,81,22,"Elemental gem",Item,"This gem contains a mote of elemental energy. When you use an action to break the gem, an elemental is summoned as if you had cast the conjure elemental spell, and the gem's magic is lost. The type of gem determines the elemental summoned by the spell."
+18,83,23,"Philter of love",Potion,"The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed. This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart."
+19,84,24,"Alchemy jug",Item,"You can use an action and name one liquid from the table below to cause the jug to produce the chosen liquid. Afterward, you can uncork the jug as an action and pour that liquid out, up to 2 gallons per minute. The maximum amount of liquid the jug can produce depends on the liquid you named.
+Once the jug starts producing a liquid, it can't produce a different one, or more of one that has reached its maximum, until the next dawn.
+Liquid	Max Amount
+Acid	8 ounces
+Basic poison	1/2 ounce
+Beer	4 gallons
+Honey	1 gallon
+Mayonnaise	2 gallons
+Oil	1 quart
+Vinegar	2 gallons
+Water, fresh	8 gallons
+Water, salt	12 gallons
+Wine	1 gallon
+"
+20,85,25,"Cap of water breathing",Item,"While wearing this cap underwater, you can speak its command word as an action to create a bubble of air around your head. It allows you to breathe normally underwater. This bubble stays with you until you speak the command word again, the cap is removed, or you are no longer underwater."
+21,86,26,"Cloak of the manta ray",Item,"These cloaks were typically known for granting their wearers water breathing and faster movement in water. Though some were known to polymorph their wearer into the form of a manta ray upon entering a body of salt water."
+22,87,8,Driftglobe,Item,"This small sphere of  glass 1 pound. If you are within 60 feet of it, light or daylight spell. The daylight effect can't be used again until the next dawn. The globe can rise into the air and float 5 feet off the ground. it follows 60 feet of you. If prevented from moving it falls and turns off"
+23,88,27,"Goggles of night",Item,"While wearing these dark lenses, you have darkvision out to a range of 60 feet. If you already have darkvision, wearing the goggles increases its range by 60 feet."
+24,89,28,"Helm of comprehending languages",headwear,"While wearing this helm, you can use an action to cast the comprehend languages spell from it at will."
+25,90,29,"Immovable rod",item,"This flat iron rod has a button on one end. You can use an action to press the button, which causes the rod to become magically fixed in place. Until you or another creature uses an action to push the button again, the rod doesn't move, even if it is defying gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can use an action to make a DC 30 Strength check, moving the fixed rod up to 10 feet on a success."
+26,91,30,"Lantern of revealing",item,"While lit, this hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. Invisible creatures and objects are visible as long as they are in the lantern's bright light. You can use an action to lower the hood, reducing the light to dim light in a 5-foot radius."
+27,92,31,"Mariner's Armor",item,"While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs."
+28,93,32,"Mithral Armor",Armor,"Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes.
+If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.
+Chain Shirt	Medium	 13 + Dex modifier (max 2)	 --	 --
+Scale Mail	Medium	 14 + Dex modifier (max 2)	 --	 Disadvantage
+Breastplate	Medium	 14 + Dex modifier (max 2)	 --	 --
+Half Plate	Medium	 15 + Dex modifier (max 2)	 --	Disadvantage
+Ring Mail	Heavy	 14	 --	 Disadvantage
+Chain Mail	Heavy	 16	 Strength 13	 Disadvantage
+Splint	Heavy	 17	 Strength 15	 Disadvantage
+Plate	Heavy	 18	 Strength 15	 Disadvantage"
+29,94,33,"Potion of Poison",Potion,"This concoction looks, smells, and tastes like a potion of healing or other beneficial potion. However, it is actually poison masked by illusion magic. An identify spell reveals its true nature.
+If you drink it, you take 3d6 poison damage, and you must succeed on a DC 13 Constitution saving throw or be poisoned. At the start of each of your turns while you are poisoned in this way, you take 3d6 poison damage. At the end of each of your turns, you can repeat the saving throw. On a successful save, 
+the poison damage you take on your subsequent turns decreases by 1d6. 
+The poison ends when the damage decreases to 0"
+30,95,34,"Ring of swimming",Jewelry,"You have a swimming speed of 40 feet while wearing this ring.
+"
+31,96,35,"Robe of useful items",Item,"This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can use an action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
+
+The robe has two of each of the following patches:
+
+Dagger
+Bullseye lantern (filled and lit)
+Steel mirror
+10-foot pole
+Hempen rope (50 feet, coiled)
+Sack
+
+In addition, the robe has 4d4 other patches. The GM chooses the patches or determines them randomly.
+
+
+d100	Patch
+01-08	Bag of 100 gp
+09-15	Silver coffer (1 foot long, 6 inches wide and deep) worth 500 gp
+16-22	Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself
+23-30	10 gems worth 100 gp each
+31-44	Wooden ladder (24 feet long)
+45-51	A riding horse with saddle bags
+52-59	Pit (a cube 10 feet on a side), which you can place on the ground within 10 feet of you
+60-68	Potion of healing (4)
+69-75	Rowboat (12 feet long)
+76-83	Spell scroll containing one spell of 1st to 3rd level
+84-90	Mastiff (2)
+91-96	Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach
+97-00	Portable ram"
+32,97,36,"Rope of climbing",Item,"This 60-foot length of silk rope weighs 3 pounds and can hold up to 3,000 pounds. If you hold one end of the rope and use an action to speak the command word, the rope animates. As a bonus action, you can command the other end to move toward a destination you choose. That end moves 10 feet on your turn when you first command it and 10 feet on each of your turns until reaching its destination, up to its maximum length away, or until you tell it to stop. You can also tell the rope to fasten itself securely to an object or to unfasten itself, to knot or unknot itself, or to coil itself for carrying.
+
+If you tell the rope to knot, large knots appear at 1-foot intervals along the rope. While knotted, the rope shortens to a 50-foot length and grants advantage on checks made to climb it.
+
+The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 hit points, it is destroyed."
+33,98,37,"Saddle of the cavalie",Item,"While in this saddle on a mount, you can't be dismounted against your will if you're conscious, and attack rolls against the mount have disadvantage."
+34,99,38,"Wand of magic detection",Item,"This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the detect magic spell from it. The wand regains 1d3 expended charges daily at dawn."
+35,100,39,"Wand of secrets",Item,"The wand has 3 charges. While holding it, you can use an action to expend 1 of its charges, and if a secret door or trap is within 30 feet of you, the wand pulses and points at the one nearest to you. The wand regains 1d3 expended charges daily at dawn"

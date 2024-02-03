@@ -1,0 +1,211 @@
+iditem_table_f,tablef_Roll,itemId,itemName,itemType,itemDescription
+1,15,88,"Weapon, +1",Weapon,"Weapon, with +1 Damage"
+2,18,89,"Shield +1",Shield,"A Shield with +1 AC"
+3,21,90,"Sentinel shield",Item,"While holding this shield, you have advantage on initiative rolls and Wisdom (Perception) checks. The shield is emblazoned with the symbol of an eye."
+4,23,91,"Amulet of proof against detection and location",Item,"While wearing this amulet, you are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors."
+5,25,92,"Boots of elvenkind",Item,"While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently."
+6,27,93,"Boots of striding and springing",Item,"While you wear these boots, your walking speed becomes 30 feet, unless your walking speed is higher, and your speed isn't reduced if you are encumbered or wearing heavy armor. 
+In addition, you can jump three times the normal distance, though you can't jump farther than your remaining movement would allow."
+7,29,94,"Bracers of archery",Item,"While wearing these bracers, you have proficiency with the longbow and shortbow, and you gain a +2 bonus to damage rolls on ranged attacks made with such weapons."
+8,31,95,"Brooch of shielding",Item,"While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the magic missile spell."
+9,33,96,"Broom of flying",Item,"This wooden broom, which weighs 3 pounds, functions like a mundane broom until you stand astride it and speak its command word.
+ It then hovers beneath you and can be ridden in the air. It has a flying speed of 50 feet. It can carry up to 400 pounds, but its flying speed becomes 30 feet while carrying over 200 pounds. The broom stops hovering when you land.
+You can send the broom to travel alone to a destination within 1 mile of you if you speak the command word, name the location, and are familiar with that place. The broom comes back to you when you speak another command word, provided that the broom is still within 1 mile of you."
+10,35,97,"Cloak of elvenkind",Item,"While you wear this cloak with its hood up, Wisdom (Perception) checks made to see you have disadvantage. 
+and you have advantage on Dexterity (Stealth) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action."
+11,37,98,"Cloak of protection",Item,"You gain a +1 bonus to AC and saving throws while you wear this cloak."
+12,39,99,"Gauntlets of ogre power",Item,"Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is 19 or higher without them."
+13,41,100,"Hat of disguise",Item,"While wearing this hat, you can use an action to cast the disguise self spell from it at will. The spell ends if the hat is removed."
+14,43,101,"Javelin of lightning",Weapon,"This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a target within 120 feet. Each creature in the line excluding you and the target must make a DC 13 Dexterity saving throw, taking 4d6 lightning damage on a failed save, and half as much damage on a successful one.
+The lightning bolt turns back into a javelin when it reaches the target. Make a ranged weapon attack against the target. On a hit, the target takes damage from the javelin plus 4d6 lightning damage.
+The javelin's property can't be used again until the next dawn. In the meantime, the javelin can still be used as a magic weapon"
+15,45,102,"Pearl of power",Item,"While this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot.
+ If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use the pearl, it can't be used again until the next dawn."
+16,47,103,"Rod of the pact keeper, +1",Staff,"While holding this rod, you gain a bonus to spell attack rolls and to the saving throw DCs of your warlock spells. This bonus is determined by the rod's rarity.
+In addition, you can regain one warlock spell slot as an action while holding the rod. You can't use this property again until you finish a long rest."
+17,49,104,"Slippers of spider climbing",Item,"While you wear these light shoes, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. 
+You have a climbing speed equal to your walking speed. However, the slippers don't allow you to move this way on a slippery surface, such as one covered by ice or oil."
+18,51,105,"Staff of the adder",Staff,"You can use a bonus action to speak this staff's command word and make the head of the staff become that of an animate poisonous snake for 1 minute. By using another bonus action to speak the command word again, you return the staff to its normal inanimate form.
+You can make a melee attack using the snake head, which has a reach of 5 feet. 
+Your proficiency bonus applies to the attack roll. On a hit, the target takes 1d6 piercing damage and must succeed on a DC 15 Constitution saving throw or take 3d6 poison damage.
+The snake head can be attacked while it is animate. It has an Armor Class of 15 and 20 hit points. If the head drops to 0 hit points, the staff is destroyed. As long as it's not destroyed, the staff regains all lost hit points when it reverts to its inanimate form."
+19,55,106,"Staff of the python",Staff,"You can use an action to speak this staff's command word and throw the staff on the ground within 10 feet of you. The staff becomes a giant constrictor snake under your control and acts on its own initiative count. By using a bonus action to speak the command word again, you return the staff to its normal form in a space formerly occupied by the snake.
+On your turn, you can mentally command the snake if it is within 60 feet of you and you aren't incapacitated. You decide what action the snake takes and where it moves during its next turn, or you can issue it a general command, such as to attack your enemies or guard a location.
+If the snake is reduced to 0 hit points, it dies and reverts to its staff form. The staff then shatters and is destroyed. 
+If the snake reverts to staff form before losing all its hit points, it regains all of them."
+20,57,107,"Sword of vengeance",Weapon,"You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+Curse. This sword is cursed and possessed by a vengeful spirit. Becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the sword, keeping it on your person at all times. While attuned to this weapon, you have disadvantage on attack rolls made with weapons other than this one.
+In addition, while the sword is on your person, you must succeed on a DC 15 Wisdom saving throw whenever you take damage in combat. On a failed save, you must attack the creature that damaged you until you drop to 0 hit points or it does, or until you can't reach the creature to make a melee attack against it.
+You can break the curse in the usual ways. Alternatively, casting Banishment on the sword forces the vengeful spirit to leave it. The sword then becomes a +1 weapon with no other properties."
+21,59,108,"Trident offish command",Weapon,"This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast dominate beast (save DC 15) from it on a beast that has an innate swimming speed."
+22,61,109,"Wand of magic missiles",Wand,"This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the magic missile spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.
+The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed."
+23,63,110,"Wand of web",Wand,"This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the web spell (save DC 15) from it.
+The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed."
+24,65,111,"Weapon of warning",Weapon,"This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be surprised, 
+except when incapacitated by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins."
+25,66,112,"Adamantine armor (chain mail)",Armor,"This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit. AC 16 str 13 disadvantage stealth"
+26,67,113,"Adamantine armor (chain shirt)",Armor,"This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit. AC 13 +Dex max of 2"
+27,68,114,"Adamantine armor (scale mail)",Armor,"This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit. AC 14 +Dex max of 2. stealth disadvantage"
+28,69,115,"Bag of tricks (gray)",Item,"This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.
+You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table that corresponds to the bag's color. The creature vanishes at the next dawn or when it is reduced to 0 hit points.
+The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.
+Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
+Gray Bag of Tricks
+d8	Creature
+1	Weasel
+2	Giant rat
+3	Badger
+4	Boar
+5	Panther
+6	Giant badger
+7	Dire wolf
+8	Giant Elk"
+29,70,116,"Bag of tricks (rust)",Item,"This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.
+You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table that corresponds to the bag's color. The creature vanishes at the next dawn or when it is reduced to 0 hit points.
+The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.
+Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
+Rust Bag of Tricks
+d8	Creature
+1	Rat
+2	Owl
+3	Mastiff
+4	Goat
+5	Giant goat
+6	Giant boar
+7	Lion
+8	Brown bear"
+30,71,117,"Bag of tricks (tan)",Item,"This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.
+You can use an action to pull the fuzzy object from the bag and throw it up to 20 feet. When the object lands, it transforms into a creature you determine by rolling a d8 and consulting the table that corresponds to the bag's color. The creature vanishes at the next dawn or when it is reduced to 0 hit points.
+The creature is friendly to you and your companions, and it acts on your turn. You can use a bonus action to command how the creature moves and what action it takes on its next turn, or to give it general orders, such as to attack your enemies. In the absence of such orders, the creature acts in a fashion appropriate to its nature.
+Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
+Tan Bag of Tricks
+d8	Creature
+1	Jackal
+2	Ape
+3	Baboon
+4	Axe beak
+5	Black bear
+6	Giant weasel
+7	Giant hyena
+8	Tiger"
+31,72,118,"Boots of the winterlands",Item,"These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:
+You have resistance to cold damage.
+You ignore difficult terrain created by ice or snow. You can tolerate temperatures as low as −50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as −100 degrees Fahrenheit."
+32,73,119,"Circlet of blasting",Item,"While wearing this circlet, you can use an action to cast the scorching ray spell with it.
+ When you make the spell's attacks, you do so with an attack bonus of +5. The circlet can't be used this way again until the next dawn"
+33,74,120,"Deck of illusions",Item,"
+This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing 1d20 − 1 cards.
+
+The magic of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of you.
+
+An illusion of one or more creatures forms over the thrown card and remains until dispelled. An illusory creature appears real, of the appropriate size, and behaves as if it were a real creature except that it can do no harm. While you are within 120 feet of the illusory creature and can see it, you can use an action to move it magically anywhere within 30 feet of its card. Any physical interaction with the illusory creature reveals it to be an illusion, because objects pass through it. Someone who uses an action to visually inspect the creature identifies it as illusory with a successful DC 15 Intelligence (Investigation) check. The creature then appears translucent.
+
+The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can't be used again.
+
+Playing Card	Illusion
+Ace of hearts	Red dragon
+King of hearts	Knight and four guards
+Queen of hearts	Succubus or incubus
+Jack of hearts	Druid
+Ten of hearts	Cloud giant
+Nine of hearts	Ettin
+Eight of hearts	Bugbear
+Two of hearts	Goblin
+Ace of diamonds	Beholder
+King of diamonds	Archmage and mage apprentice
+Queen of diamonds	Night hag
+Jack of diamonds	Assassin
+Ten of diamonds	Fire giant
+Nine of diamonds	Ogre mage
+Eight of diamonds	Gnoll
+Two of diamonds	Kobold
+Ace of spades	Lich
+King of spades	Priest and two acolytes
+Queen of spades	Medusa
+Jack of spades	Veteran
+Ten of spades	Frost giant
+Nine of spades	Troll
+Eight of spades	Hobgoblin
+Two of spades	Goblin
+Ace of clubs	Iron golem
+King of clubs	Bandit captain and three bandits
+Queen of clubs	Erinyes
+Jack of clubs	Berserker
+Ten of clubs	Hill giant
+Nine of clubs	Ogre
+Eight of clubs	Orc
+Two of clubs	Kobold
+Jokers (2)	You (the deck's owner)"
+34,75,121,"Eversmoking bottle",Item,"Smoke leaks from the lead-stoppered mouth of this brass bottle, which weighs 1 pound. When you use an action to remove the stopper, a cloud of thick smoke pours out in a 60-foot radius from the bottle. The cloud's area is heavily obscured. Each minute the bottle remains open and within the cloud, 
+the radius increases by 10 feet until it reaches its maximum radius of 120 feet.
+The cloud persists as long as the bottle is open. Closing the bottle requires you to speak its command word as an action. Once the bottle is closed, the cloud disperses after 10 minutes. A moderate wind (11 to 20 miles per hour) can also disperse the smoke after 1 minute, and a strong wind (21 or more miles per hour) can do so after 1 round."
+35,76,122,"Eyes of charming",Item,"These crystal lenses fit over the eyes. They have 3 charges. While wearing them, you can expend 1 charge as an action to cast the charm person spell (save DC 13) on a humanoid within 30 feet of you, 
+provided that you and the target can see each other. The lenses regain all expended charges daily at dawn."
+36,77,123," Eyes of the Eagle",Item,"These crystal lenses fit over the eyes. While wearing them, you have advantage on Wisdom (Perception) checks that rely on sight. 
+In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across."
+37,78,124,"Figurine of Wondrous Power (Silver Raven) ",Item,"A figurine of wondrous power is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.
+The creature is friendly to you and your companions. It understands your languages and obeys your spoken commands. If you issue no commands, the creature defends itself but takes no other actions.
+The creature exists for a duration specific to each figurine. At the end of the duration, the creature reverts to its figurine form. It reverts to a figurine early if it drops to 0 hit points or if you use an action to speak the command word again while touching it. When the creature becomes a figurine again, its property can't be used again until a certain amount of time has passed, as specified in the figurine's description.
+Silver Raven. This silver statuette of a raven can become a raven for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine allows you to cast the animal messenger spell on it at will."
+38,79,125,"Gem of brightness",Item,"This prism has 50 charges. While you are holding it, you can use an action to speak one of three command words to cause one of the following effects:
+The first command word causes the gem to shed bright light in a 30-foot radius and dim light for an additional 30 feet. This effect doesn't expend a charge. It lasts until you use a bonus action to repeat the command word or until you use another function of the gem.
+The second command word expends 1 charge and causes the gem to fire a brilliant beam of light at one creature you can see within 60 feet of you. The creature must succeed on a DC 15 Constitution saving throw or become blinded for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+The third command word expends 5 charges and causes the gem to flare with blinding light in a 30- foot cone originating from it. Each creature in the cone must make a saving throw as if struck by the beam created with the second command word.
+When all of the gem's charges are expended, the gem becomes a nonmagical jewel worth 50 gp."
+39,80,126,"Gloves of missile snaring",Item,"These gloves seem to almost meld into your hands when you don them. When a ranged weapon attack hits you while you're wearing them, you can use your reaction to reduce the damage by 1d10 + your Dexterity modifier, 
+provided that you have a free hand. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in that hand."
+40,81,127,"Gloves of Swimming and Climbing",Item,"While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength (Athletics) checks made to climb or swim."
+41,82,128,"Gloves of thievery",Item,"These gloves are invisible while worn. While wearing them, you gain a +5 bonus to Dexterity (Sleight of Hand) checks and Dexterity checks made to pick locks."
+42,83,129,"Headband of intellect",Armor,"Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher without it."
+43,84,130,"Helm of telepathy",Armor,"While wearing this helm, you can use an action to cast the detect thoughts spell (save DC 13) from it. As long as you maintain concentration on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. 
+It can reply--using a bonus action to do so--while your focus on it continues.
+While focusing on a creature with detect thoughts, you can use an action to cast the suggestion spell (save DC 13) from the helm on that creature. Once used, the suggestion property can't be used again until the next dawn."
+44,85,131,"Instrument of the bards (Doss lute)",Item,"An instrument of the bards is an exquisite example of its kind, superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a legendary bard college. The following table lists the spells common to all instruments, as well as the spells specific to each one and its rarity.
+ A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 psychic damage.
+You can use an action to play the instrument and cast one of its spells. Once the instrument has been used to cast a spell, it can’t be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
+You can play the instrument while casting a spell that causes any of its targets to be charmed on a failed saving throw, thereby imposing disadvantage on the save. 
+This effect applies only if the spell has a somatic or a material component.
+Animal friendship, protection from energy (fire only), protection from poison"
+45,86,132,"Instrument of the bards {Fochlucan bandore",Item,"An instrument of the bards is an exquisite example of its kind, superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a legendary bard college. The following table lists the spells common to all instruments, as well as the spells specific to each one and its rarity.
+ A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 psychic damage.
+You can use an action to play the instrument and cast one of its spells. Once the instrument has been used to cast a spell, it can’t be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
+You can play the instrument while casting a spell that causes any of its targets to be charmed on a failed saving throw, thereby imposing disadvantage on the save. 
+This effect applies only if the spell has a somatic or a material component.
+Entangle, faerie fire, shillelagh, speak with animals"
+46,87,133,"Instrument of the bards (Mac-Fuimidh cittern",Item,"An instrument of the bards is an exquisite example of its kind, superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a legendary bard college. The following table lists the spells common to all instruments, as well as the spells specific to each one and its rarity.
+ A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 psychic damage.
+You can use an action to play the instrument and cast one of its spells. Once the instrument has been used to cast a spell, it can’t be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
+You can play the instrument while casting a spell that causes any of its targets to be charmed on a failed saving throw, thereby imposing disadvantage on the save. 
+This effect applies only if the spell has a somatic or a material component.
+Barkskin, cure wounds, fog cloud"
+47,88,134,"Medallion of thoughts",Item,"The medallion has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the detect thoughts spell (save DC 13) from it. 
+The medallion regains 1d3 expended charges daily at dawn"
+48,89,135,"Necklace of adaptation",Item,"While wearing this necklace, you can breathe normally in any environment, 
+and you have advantage on saving throws made against harmful gases and vapors (such as cloudkill and stinking cloud effects, inhaled poisons, and the breath weapons of some dragons)"
+49,90,136,"Periapt ofwound closure",Item,"While you wear this pendant, you stabilize whenever you are dying at the start of your turn. 
+In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores."
+50,91,137,"Pipes of haunting",Item,"
+You must be proficient with wind instruments to use these pipes. They have 3 charges. You can use an action to play them and expend 1 charge to create an eerie, spellbinding tune. 
+Each creature within 30 feet of you that hears you play must succeed on a DC 15 Wisdom saving throw or become frightened of you for 1 minute. If you wish, all creatures in the area that aren't hostile toward you automatically succeed on the saving throw. A creature that fails the saving throw can repeat it at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on its saving throw is immune to the effect of these pipes for 24 hours. The pipes regain 1d3 expended charges daily at dawn."
+51,92,138,"Pipes of the sewers",Item,"You must be proficient with wind instruments to use these pipes. While you are attuned to the pipes,
+ ordinary rats and giant rats are indifferent toward you and will not attack you unless you threaten or harm them.
+The pipes have 3 charges. If you play the pipes as an action, you can use a bonus action to expend 1 to 3 charges, calling forth one swarm of rats with each expended charge, provided that enough rats are within half a mile of you to be called in this fashion (as determined by the GM). If there aren't enough rats to form a swarm, the charge is wasted. Called swarms move toward the music by the shortest available route but aren't under your control otherwise. The pipes regain 1d3 expended charges daily at dawn.
+Whenever a swarm of rats that isn't under another creature's control comes within 30 feet of you while you are playing the pipes, you can make a Charisma check contested by the swarm's Wisdom check. If you lose the contest, the swarm behaves as it normally would and can't be swayed by the pipes' music for the next 24 hours. If you win the contest, the swarm is swayed by the pipes' music and becomes friendly to you and your companions for as long as you continue to play the pipes each round as an action. A friendly swarm obeys your commands. If you issue no commands to a friendly swarm, it defends itself but otherwise takes no actions. If a friendly swarm starts its turn and can't hear the pipes' music, 
+your control over that swarm ends, and the swarm behaves as it normally would and can't be swayed by the pipes' music for the next 24 hours."
+52,93,139,"Ring of jumping",Jewelry,"While wearing this ring, you can cast the jump spell from it as a bonus action at will, but can target only yourself when you do so."
+53,94,140,"Ring of mind shielding",Jewelry,"While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, 
+or know your creature type. Creatures can telepathically communicate with you only if you allow it.
+You can use an action to cause the ring to become invisible until you use another action to make it visible, until you remove the ring, or until you die.
+If you die while wearing the ring, your soul enters it, unless it already houses a soul. You can remain in the ring or depart for the afterlife. As long as your soul is in the ring, you can telepathically communicate with any creature wearing it. A wearer can't prevent this telepathic communication"
+54,95,141,"Ring of warmth",Jewelry,"While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as −50 degrees Fahrenheit"
+55,96,142,"Ring of water walking",Jewelry,"While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground."
+56,97,143,"Quiver of Ehlonna",Item,"Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to sixty arrows, bolts, or similar objects. The midsize compartment holds up to eighteen javelins or similar objects. 
+The longest compartment holds up to six long objects, such as bows, quarterstaffs, or spears.
+You can draw any item the quiver contains as if doing so from a regular quiver or scabbard."
+57,98,144,"Stone of good luck",Item,"While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws."
+58,99,145,"Wind fan",Item,"While holding this fan, you can use an action to cast the gust of wind spell (save DC 13) from it. Once used, the fan shouldn't be used again until the next dawn.
+ Each time it is used again before then, it has a cumulative 20 percent chance of not working and tearing into useless, nonmagical tatters"
+59,100,146,"Winged boots",Item,"While you wear these boots, you have a flying speed equal to your walking speed. You can use the boots to fly for up to 4 hours, all at once or in several shorter flights, 
+each one using a minimum of 1 minute from the duration. If you are flying when the duration expires, you descend at a rate of 30 feet per round until you land.
+The boots regain 2 hours of flying capability for every 12 hours they aren't in use."

@@ -1,0 +1,9 @@
+tablea_Roll,itemName,itemDescription
+50,Potion of Healing,Regain 2d4 +2 HP
+60,Spell Scroll(cantrip),Can use to cast without mats or copy spell
+70,Potion of Climbing,you gain a climbing speed equal to your walking speed for 1 hour
+90,Spell scroll(1st level),Allows you to cast spell once without mats or learn it
+94,Spell scroll(2nd level),Allows you to cast spell once without mats or learn it
+98,Potion of Greater Healing,You regain 4d4 + 4 hit points when you drink this potion
+99,Bag Of Holding,"Can hold up to 500 lbs while weighing only 15,if the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered "
+100,Driftglobe,"This small sphere of  glass 1 pound. If you are within 60 feet of it, light or daylight spell. The daylight effect can't be used again until the next dawn. The globe can rise into the air and float 5 feet off the ground. it follows 60 feet of you. If prevented from moving it falls and turns off"

@@ -1,0 +1,499 @@
+iditem_table_i,tablei_Roll,itemId,itemName,itemType,itemDescription
+1,5,303,Defender,Item,"You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+
+Giant's Bane (Requires Attunement). You must be wearing a belt of giant strength (any variety) and gauntlets of ogre power to attune to this weapon. The attunement ends if you take off either of those items. While you are attuned to this weapon and holding it, your Strength score increases by 4 and can exceed 20, but not 30. When you roll a 20 on an attack roll made with this weapon against a giant, the giant must succeed on a DC 17 Constitution saving throw or die.
+
+The hammer also has 5 charges. While attuned to it, you can expend 1 charge and make a ranged weapon attack with the hammer, hurling it as if it had the thrown property with a normal range of 20 feet and a long range of 60 feet. If the attack hits, the hammer unleashes a thunderclap audible out to 300 feet. The target and every creature within 30 feet of it must succeed on a DC 17 Constitution saving throw or be stunned until the end of your next turn. The hammer regains 1d4 + 1 expended charges daily at dawn.
+
+Proficiency with a maul allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+
+Notes: Stacking Bonus: Strength Score, Bonus: Magic, Bonus: Ability Score Maximum, Damage, Buff,"
+2,10,304,"Hammer of thunderbolts",Item,"You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+
+Giant's Bane (Requires Attunement). You must be wearing a belt of giant strength (any variety) and gauntlets of ogre power to attune to this weapon. The attunement ends if you take off either of those items. While you are attuned to this weapon and holding it, your Strength score increases by 4 and can exceed 20, but not 30. When you roll a 20 on an attack roll made with this weapon against a giant, the giant must succeed on a DC 17 Constitution saving throw or die.
+
+The hammer also has 5 charges. While attuned to it, you can expend 1 charge and make a ranged weapon attack with the hammer, hurling it as if it had the thrown property with a normal range of 20 feet and a long range of 60 feet. If the attack hits, the hammer unleashes a thunderclap audible out to 300 feet. The target and every creature within 30 feet of it must succeed on a DC 17 Constitution saving throw or be stunned until the end of your next turn. The hammer regains 1d4 + 1 expended charges daily at dawn.
+
+Proficiency with a maul allows you to add your proficiency bonus to the attack roll for any attack you make with it.
+
+Notes: Stacking Bonus: Strength Score, Bonus: Magic, Bonus: Ability Score Maximum, Damage, Buff,"
+3,15,305,"Luck blade",Item,"You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
+
+Luck. If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.
+
+Wish. The sword has 1d4–1 charges. While holding it, you can use an action to expend 1 charge and cast the wish spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.
+
+Applicable Weapons:
+
+Name	Type	Damage	Properties
+Greatsword	Martial Melee	2d6 slashing	Heavy, two-handed
+Longsword	Martial Melee	1d8 slashing	Versatile (1d10)
+Rapier	Martial Melee	1d8 piercing	Finesse
+Scimitar	Martial Melee	1d6 slashing	Finesse, light
+Shortsword	Martial Melee	1d6 piercing	Finesse, light"
+4,20,306,"Sword of answering",Item,"Weapon (longsword), legendary (requires attunement by a creature with the same alignment as the sword)
+
+In the world of Greyhawk, only nine of these blades are known to exist. Each is patterned after the legendary sword Fragarach, which is variously translated as 'Final Word.' Each of the nine swords has its own name and alignment, and each bears a different gem in its pommel.
+
+Name	Alignment	Gem
+Answerer	Chaotic good	Emerald
+Back Talker	Chaotic evil	Jet
+Concluder	Lawful neutral	Amethyst
+Last Quip	Chaotic neutral	Tourmaline
+Rebutter	Neutral good	Topaz
+Replier	Neutral	Peridot
+Retorter	Lawful good	Aquamarine
+Scather	Lawful evil	Garnet
+Squelcher	Neutral evil	Spinel
+You gain a +3 bonus to attack and damage rolls made with this sword. In addition, while you hold the sword, you can use your reaction to make one melee attack with it against any creature in your reach that deals damage to you. You have advantage on the attack roll, and any damage dealt with this special attack ignores any damage immunity or resistance the target has."
+5,23,307,"Holy avenger",Item,"While wearing this ring, you can speak its command word as an action to summon a particular djinni from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of you. It remains as long as you concentrate (as if concentrating on a spell), to a maximum of 1 hour, or until it drops to 0 hit points. It then returns to its home plane.
+
+While summoned, the djinni is friendly to you and your companions. It obeys any commands you give it, no matter what language you use. If you fail to command it, the djinni defends itself against attackers but takes no other actions.
+
+After the djinni departs, it can't be summoned again for 24 hours, and the ring becomes nonmagical if the djinni dies."
+6,26,308,"Ring of djinni summoning",Item,"While wearing this ring, you can speak its command word as an action to summon a particular djinni from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of you. It remains as long as you concentrate (as if concentrating on a spell), to a maximum of 1 hour, or until it drops to 0 hit points. It then returns to its home plane.
+
+While summoned, the djinni is friendly to you and your companions. It obeys any commands you give it, no matter what language you use. If you fail to command it, the djinni defends itself against attackers but takes no other actions.
+
+After the djinni departs, it can't be summoned again for 24 hours, and the ring becomes nonmagical if the djinni dies."
+7,29,309,"Ring of invisibility",Item,"While wearing this ring, you can turn invisible as an action. Anything you are wearing or carrying is invisible with you. You remain invisible until the ring is removed, until you attack or cast a spell, or until you use a bonus action to become visible again."
+8,32,310,"Ring of spell turning",Item,"While wearing this ring, you have advantage on saving throws against any spell that targets only you (not in an area of effect). In addition, if you roll a 20 for the save and the spell is 7th level or lower, the spell has no effect on you and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster."
+9,35,311,"Rod of lordly might",Item,"Requires Attunement by a Sorcerer, Warlock, or Wizard
+
+This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.
+
+The staff has 50 charges for the following properties. It regains 4d6 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 20, the staff regains 1d12 + 1 charges.
+
+Spell Absorption: While holding the staff, you have advantage on saving throws against spells. In addition, you can use your reaction when another creature casts a spell that targets only you. If you do, the staff absorbs the magic of the spell, canceling its effect and gaining a number of charges equal to the absorbed spell's level. However, if doing so brings the staff's total number of charges above 50, the staff explodes as if you activated its retributive strike (see below).
+
+Spells: While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: conjure elemental (7 charges), dispel magic (3 charges), fireball (7th-level version, 7 charges), flaming sphere (2 charges), ice storm (4 charges), invisibility (2 charges), knock (2 charges), lightning bolt (7th-level version, 7 charges), passwall (5 charges), plane shift (7 charges), telekinesis (5 charges), wall of fire (4 charges), or web (2 charges).
+
+You can also use an action to cast one of the following spells from the staff without using any charges: arcane lock, detect magic, enlarge/reduce, light, mage hand, or protection from evil and good.
+
+Retributive Strike: You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-foot-radius sphere centered on it.
+
+You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 x the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
+
+Distance from Origin — Damage:
+
+10 ft. away or closer — 8 x the number of charges in the staff
+
+11 to 20 ft. away — 6 x the number of charges in the staff
+
+21 to 30 ft. away — 4 x the number of charges in the staff"
+10,38,312,"Staff of the magi",Item,"Requires Attunement by a Sorcerer, Warlock, or Wizard
+
+This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.
+
+The staff has 50 charges for the following properties. It regains 4d6 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 20, the staff regains 1d12 + 1 charges.
+
+Spell Absorption: While holding the staff, you have advantage on saving throws against spells. In addition, you can use your reaction when another creature casts a spell that targets only you. If you do, the staff absorbs the magic of the spell, canceling its effect and gaining a number of charges equal to the absorbed spell's level. However, if doing so brings the staff's total number of charges above 50, the staff explodes as if you activated its retributive strike (see below).
+
+Spells: While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: conjure elemental (7 charges), dispel magic (3 charges), fireball (7th-level version, 7 charges), flaming sphere (2 charges), ice storm (4 charges), invisibility (2 charges), knock (2 charges), lightning bolt (7th-level version, 7 charges), passwall (5 charges), plane shift (7 charges), telekinesis (5 charges), wall of fire (4 charges), or web (2 charges).
+
+You can also use an action to cast one of the following spells from the staff without using any charges: arcane lock, detect magic, enlarge/reduce, light, mage hand, or protection from evil and good.
+
+Retributive Strike: You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-foot-radius sphere centered on it.
+
+You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 x the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
+
+Distance from Origin — Damage:
+
+10 ft. away or closer — 8 x the number of charges in the staff
+
+11 to 20 ft. away — 6 x the number of charges in the staff
+
+21 to 30 ft. away — 4 x the number of charges in the staff"
+11,41,313,"Vorpal sword",Item,"You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.
+
+When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d8 slashing damage from the hit.
+
+Applicable Weapons:
+
+Name	Type	Damage	Properties
+ Greatsword	Martial Melee	2d6 + 3 slashing	Heavy, two-handed
+  Longsword	Martial Melee	1d8 + 3 slashing	Versatile (1d10)
+  Scimitar	Martial Melee	1d6 + 3 slashing	Finesse, light"
+12,43,314,"Belt of cloud giant strength",Item,"While wearing this belt, your Strength score changes to 27. The item has no effect on you if your Strength without the belt is equal to or greater than 27."
+13,45,315,"Armor, +2 breastplate",Item,"Breastplate	Medium	 14 + Dex modifier (max 2) + 2	"
+14,47,316,"Armor, +3 chain mail",Item,"Chain Mail	Heavy	 16 + 3	 Strength 13	 Disadvantage"
+15,49,317,"Armor, +3 chain shirt",Item,"Chain Shirt	Medium	 13 + Dex modifier (max 2) + 3"
+16,51,318,"Cloak of invisibility",Item,"While wearing this cloak, you can pull its hood over your head to cause yourself to become invisible. While you are invisible, anything you are carrying or wearing is invisible with you. You become visible when you cease wearing the hood. Pulling the hood up or down requires an action.
+
+Deduct the time you are invisible, in increments of 1 minute, from the cloak's maximum duration of 2 hours. After 2 hours of use, the cloak ceases to function. For every uninterrupted period of 12 hours, the cloak goes unused, it regains 1 hour of duration."
+17,53,319,"Crystal ball (legendary version)",Item,"The typical crystal ball, a very rare item, is about 6 inches in diameter. While touching it, you can cast the scrying spell (save DC 17) with it.
+
+The following crystal ball variants are legendary items and have additional properties.
+
+Crystal Ball of Mind Reading. You can use an action to cast the detect thoughts spell (save DC 17) while you are scrying with the crystal ball, targeting creatures you can see within 30 feet of the spell’s sensor. You don’t need to concentrate on this detect thoughts to maintain it during its duration, but it ends if scrying ends.
+
+Crystal Ball of Telepathy. While scrying with the crystal ball, you can communicate telepathically with creatures you can see within 30 feet of the spell’s sensor. You can also use an action to cast the suggestion spell (save DC 17) through the sensor on one of those creatures. You don’t need to concentrate on this suggestion to maintain it during its duration, but it ends if scrying ends. Once used, the suggestion power of the crystal ball can’t be used again until the next dawn.
+
+Crystal Ball of True Seeing. While scrying with the crystal ball, you have truesight with a radius of 120 feet centered on the spell’s sensor."
+18,55,320,"Armor, +1 half plate",Item," 15 + Dex modifier (max 2) + 1	"
+19,57,321,"Iron flask",Item,"This iron bottle has a brass stopper. You can use an action to speak the flask's command word, targeting a creature that you can see within 60 feet of you. If the target is native to a plane of existence other than the one you're on, the target must succeed on a DC 17 Wisdom saving throw or be trapped in the flask. If the target has been trapped by the flask before, it has advantage on the saving throw. Once trapped, a creature remains in the flask until released. The flask can hold only one creature at a time. A creature trapped in the flask doesn't need to breathe, eat, or drink and doesn't age.
+
+You can use an action to remove the flask's stopper and release the creature the flask contains. The creature is friendly to you and your companions for 1 hour and obeys your commands for that duration. If you give no commands or give it a command that is likely to result in its death, it defends itself but otherwise takes no actions. At the end of the duration, the creature acts in accordance with its normal disposition and alignment.
+
+An identify spell reveals that a creature is inside the flask, but the only way to determine the type of creature is to open the flask. A newly discovered bottle might already contain a creature chosen by the GM or determined randomly.
+
+d100	Contents	d100	Contents
+1-50	Empty	77-78	Elemental (any)
+51	Arcanaloth	79	Githyanki knight
+52	Cambion	80	Githzerai zerth
+53-54	Dao	81-82	Invisible Stalker
+55-57	Demon (type 1)	83-84	Marid
+58-60	Demon (type 2)	85-86	Mezzoloth
+61-62	Demon (type 3)	87-88	Night hag
+63-64	Demon (type 4)	89-90	Nycaloth
+65	Demon (type 5)	91	Planetar
+66	Demon (type 6)	92-93	Salamander
+67	Deva	94-95	Slaad (any)
+68-69	Devil (greater)	96	Solar
+70-72	Devil (lesser)	97-98	Succubus/incubus
+73-74	Djinni	99	Ultroloth
+75-76	Efreeti	00	Xorn"
+20,59,322,"Armor, +3 leather",Item,
+21,61,323,"Armor, +1 plate",Item,"Plate	Heavy	 18 + 1	 Strength 15	 Disadvantage"
+22,63,324,"Robe of the archmagi",Item,"This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. The robe’s color corresponds to the alignment for which the item was created. A white robe was made for good, gray for neutral, and black for evil. You can’t attune to a robe of the archmagi that doesn’t correspond to your alignment. You gain these benefits while wearing the robe:
+
+If you aren’t wearing armor, your base Armor Class is 15 + your Dexterity modifier.
+You have advantage on saving throws against spells and other magical effects.
+Your spell save DC and spell attack bonus each increase by 2."
+23,65,325,"Rod of resurrection",Item,"This rod has 5 charges. While you hold it, you can use an action to cast one of the following spells from it: Heal (expends 1 charge) or Resurrection (expends 5 charges.
+
+The rod regains 1 expended charge daily at dawn. If the rod is reduced to 0 charges, roll a d20. On a 1, the rod disappears in a burst of radiance."
+24,67,326,"Armor, +1 scale mail",Item,"Scale Mail	Medium	 14 + Dex modifier (max 2) + 1	 --	 Disadvantage"
+25,69,327,"Scarab of protection",Item,"If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:
+
+You have advantage on saving throws against spells.
+The scarab has 12 charges. If you fail a saving throw against a necromancy spell or a harmful effect originating from an undead creature, you can use your reaction to expend 1 charge and turn the failed save into a successful one. The scarab crumbles into powder and is destroyed when its last charge is expended."
+26,71,328,"Armor, +2 splint",Item,"Splint	Heavy	 17 + 2	 Strength 15	 Disadvantage"
+27,73,329,"Armor, +2 studded leather",Item,"Studded Leather	Light	 12 + Dex modifier + 2"
+28,75,330,"Well of many worlds",Item,"This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
+
+You can use an action to unfold and place the well of many worlds on a solid surface, whereupon it creates a two-way portal to another world or plane of existence. Each time the item opens a portal, the DM decides where it leads. You can use an action to close an open portal by taking hold of the edges of the cloth and folding it up. Once well of many worlds has opened a portal, it can’t do so again for 1d8 hours."
+29,76,331,"Magic armor (roll dl2)",Item,"You have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.
+
+d10	Damage Type
+1	Acid
+2	Cold
+3	Fire
+4	Force
+5	Lightning
+6	Necrotic
+7	Poison
+8	Psychic
+9	Radiant
+10	Thunder
+Applicable Armor:
+
+Name	Type	AC	Strength	Stealth
+Padded	Light	11 + Dex modifier	--	Disadvantage
+Leather	Light	11 + Dex modifier	--	--
+Studded Leather	Light	12 + Dex modifier	--	--
+Hide	Medium	12 + Dex modifier (max 2)	--	--
+Chain Shirt	Medium	13 + Dex modifier (max 2)	--	--
+Scale Mail	Medium	14 + Dex modifier (max 2)	--	Disadvantage
+Breastplate	Medium	14 + Dex modifier (max 2)	--	--
+Half Plate	Medium	15 + Dex modifier (max 2)	--	Disadvantage
+Ring Mail	Heavy	14	--	Disadvantage
+Chain Mail	Heavy	16	Strength 13	Disadvantage
+Splint	Heavy	17	Strength 15	Disadvantage
+Plate	Heavy	18	Strength 15	Disadvantage"
+30,77,332,"Apparatus of Kwalish",Item,"This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 Intelligence (Investigation) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster. The apparatus of the Crab is a Large object with the following statistics:
+
+Armor Class: 20
+Hit Points: 200
+Speed: 30 ft., swim 30 ft. (or 0 ft. for both if the legs and tail aren't extended)
+Damage Immunities: poison, psychic
+
+To be used as a vehicle, the apparatus requires one pilot. While the apparatus's hatch is closed, the compartment is airtight and watertight. The compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.
+
+The apparatus floats on water. It can also go underwater to a depth of 900 feet. Below that, the vehicle takes 2d6 bludgeoning damage per minute from pressure.
+
+A creature in the compartment can use an action to move as many as two of the apparatus's levers up or down. After each use, a lever goes back to its neutral position. Each lever, from left to right, functions as shown in the Apparatus of the Crab Levers table.
+
+Apparatus of the Crab Levers
+Lever	Up	Down
+1	Legs and tail extend, allowing the apparatus to walk and swim.	Legs and tail retract, reducing the apparatus's speed to 0 and making it unable to benefit from bonuses to speed.
+2	Forward window shutter opens.	Forward window shutter closes.
+3	Side window shutters open (two per side).	Side window shutters close (two per side).
+4	Two claws extend from the front sides of the apparatus.	The claws retract.
+5	Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 ft., one target. Hit: 7 (2d6) bludgeoning damage.	Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 ft., one target. Hit: The target is grappled (escape DC 15).
+6	The apparatus walks or swims forward.	The apparatus walks or swims backward.
+7	The apparatus turns 90 degrees left.	The apparatus turns 90 degrees right.
+8	Eyelike fixtures emit bright light in a 30-foot radius and dim light for an additional 30 feet.	The light turns off.
+9	The apparatus sinks as much as 20 feet in liquid.	The apparatus rises up to 20 feet in liquid.
+10	The rear hatch unseals and opens.	The rear hatch closes and seals."
+31,78,333,"Armor of invulnerability",Item,"You have resistance to nonmagical damage while you wear this armor. Additionally, you can use an action to make yourself immune to nonmagical damage for 10 minutes or until you are no longer wearing the armor. Once this special action is used, it can't be used again until the next dawn.
+
+Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
+
+Notes: Resistance: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks, Immunity: Bludgeoning, Piercing, and Slashing from Nonmagical Weapons, Combat, Warding, Str 15 Required, Stealth Disadvantage"
+32,79,334,"Belt of storm giant strength",Item,"While wearing this belt, your Strength score changes to 29. The item has no effect on you if your Strength without the belt is equal to or greater than 29."
+33,80,335,"Cubic gate",Item,"This cube is 3 inches across and radiates palpable magical energy. The six sides of the cube are each keyed to a different plane of existence, one of which is the Material Plane. The other sides are linked to planes determined by the GM.
+
+You can use an action to press one side of the cube to cast the gate spell with it, opening a portal to the plane keyed to that side. Alternatively, if you use an action to press one side twice, you can cast the plane shift spell (save DC 17) with the cube and transport the targets to the plane keyed to that side.
+
+The cube has 3 charges. Each use of the cube expends 1 charge. The cube regains 1d3 expended charges daily at dawn."
+34,81,336,"Deck of many things",Item,"Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.
+
+Before you draw a card, you must declare how many cards you intend to draw and then draw them randomly (you can use an altered deck of playing cards to simulate the deck). Any cards drawn in excess of this number have no effect. Otherwise, as soon as you draw a card from the deck, its magic takes effect. You must draw each card no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck on their own and take effect all at once.
+
+Once a card is drawn, it fades from existence. Unless the card is the Fool or the Jester, the card reappears in the deck, making it possible to draw the same card twice.
+
+Playing Card — Card:
+
+Ace of diamonds — Vizier*
+
+King of diamonds — Sun
+
+Queen of diamonds — Moon
+
+Jack of diamonds — Star
+
+Two of diamonds — Comet*
+
+Ace of hearts — The Fates*
+
+King of hearts — Throne
+
+Queen of hearts — Key
+
+Jack of hearts — Knight
+
+Two of hearts — Gem*
+
+Ace of clubs — Talons*
+
+King of clubs — The Void
+
+Queen of clubs — Flames
+
+Jack of clubs — Skull
+
+Two of clubs — Idiot*
+
+Ace of spades — Donjon*
+
+King of spades — Ruin
+
+Queen of spades — Euryale
+
+Jack of spades — Rogue
+
+Two of spades — Balance*
+
+Joker (with TM) — Fool*
+
+Joker (without TM) — Jester
+
+* Found only in a deck with twenty-two cards
+
+Balance: Your mind suffers a wrenching alteration, causing your alignment to change. Lawful becomes chaotic, good becomes evil, and vice versa. If you are true neutral or unaligned, this card has no effect on you.
+
+Comet: If you single-handedly defeat the next hostile monster or group of monsters you encounter, you gain experience points enough to gain one level. Otherwise, this card has no effect.
+
+Donjon: You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you were wearing and carrying stays behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any divination magic, but a wish spell can reveal the location of your prison. You draw no more cards.
+
+Euryale: The card's medusa-like visage curses you. You take a -2 penalty on saving throws while cursed in this way. Only a god or the magic of The Fates card can end this curse.
+
+The Fates: Reality's fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card's magic as soon as you draw the card or at any other time before you die.
+
+Flames: A powerful devil becomes your enemy. The devil seeks your ruin and plagues your life, savoring your suffering before attempting to slay you. This enmity lasts until either you or the devil dies.
+
+Fool: You lose 10,000 XP, discard this card, and draw from the deck again, counting both draws as one of your declared draws. If losing that much XP would cause you to lose a level, you instead lose an amount that leaves you with just enough XP to keep your level.
+
+Gem: Twenty-five pieces of jewelry worth 2,000 gp each or fifty gems worth 1,000 gp each appear at your feet.
+
+Idiot: Permanently reduce your Intelligence by 1d4 + 1 (to a minimum score of 1). You can draw one additional card beyond your declared draws.
+
+Jester: You gain 10,000 XP, or you can draw two additional cards beyond your declared draws.
+
+Key: A rare or rarer magic weapon with which you are proficient appears in your hands. The DM chooses the weapon.
+
+Knight: You gain the service of a 4th-level fighter who appears in a space you choose within 30 feet of you. The fighter is of the same race as you and serves you loyally until death, believing the fates have drawn him or her to you. You control this character.
+
+Moon: You are granted the ability to cast the wish spell 1d3 times.
+
+Rogue: A nonplayer character of the DM's choice becomes hostile toward you. The identity of your new enemy isn't known until the NPC or someone else reveals it. Nothing less than a wish spell or divine intervention can end the NPC's hostility toward you.
+
+Ruin: All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
+
+Skull: You summon an avatar of death-a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the DM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can't be restored to life.
+
+Star: Increase one of your ability scores by 2. The score can exceed 20 but can't exceed 24.
+
+Sun: You gain 50,000 XP, and a wondrous item (which the DM determines randomly) appears in your hands.
+
+Talons: Every magic item you wear or carry disintegrates. Artifacts in your possession aren't destroyed but do vanish.
+
+Throne: You gain proficiency in the Persuasion skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently in the hands of monsters, which you must clear out before you can claim the keep as. yours.
+
+Vizier: At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question. Besides information, the answer helps you solve a puzzling problem or other dilemma. In other words, the knowledge comes with wisdom on how to apply it.
+
+The Void: This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is incapacitated. A wish spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards."
+35,82,337,"Efreeti chain",Item,"While wearing this armor, you gain a +3 bonus to AC, you are immune to fire damage, and you can understand and speak Primordial. In addition, you can stand on and walk across molten rock as if it were solid ground."
+36,83,338,"Armor of resistance (half plate)",Item,"You have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.
+
+d10	Damage Type
+1	Acid
+2	Cold
+3	Fire
+4	Force
+5	Lightning
+6	Necrotic
+7	Poison
+8	Psychic
+9	Radiant
+10	Thunder
+Applicable Armor:
+
+Name	Type	AC	Strength	Stealth
+Padded	Light	11 + Dex modifier	--	Disadvantage
+Leather	Light	11 + Dex modifier	--	--
+Studded Leather	Light	12 + Dex modifier	--	--
+Hide	Medium	12 + Dex modifier (max 2)	--	--
+Chain Shirt	Medium	13 + Dex modifier (max 2)	--	--
+Scale Mail	Medium	14 + Dex modifier (max 2)	--	Disadvantage
+Breastplate	Medium	14 + Dex modifier (max 2)	--	--
+Half Plate	Medium	15 + Dex modifier (max 2)	--	Disadvantage
+Ring Mail	Heavy	14	--	Disadvantage
+Chain Mail	Heavy	16	Strength 13	Disadvantage
+Splint	Heavy	17	Strength 15	Disadvantage
+Plate	Heavy	18	Strength 15	Disadvantage"
+37,84,339,"Horn of Valhalla (iron",Item,"You can use an action to blow this horn. In response, 5d4+5 warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a berserker. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.
+
+If you blow the horn without having proficiency with all martial weapons, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands."
+38,85,340,"Instrument of the bards (Gllamh harp)",Item,"An instrument of the bards is an exquisite example of its kind, superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a legendary bard college. The following table lists the spells common to all instruments, as well as the spells specific to each one and its rarity. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 psychic damage.
+
+You can use an action to play the instrument and cast one of its spells. Once the instrument has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
+
+You can play the instrument while casting a spell that causes any of its targets to be charmed on a failed saving throw, thereby imposing disadvantage on the save. This effect applies only if the spell has a somatic or a material component.
+"
+39,86,341,"loun stone (greater absorption)",Item,"An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
+
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+While this marbled lavender and green ellipsoid orbits your head, you can use your reaction to cancel a spell of 8th level or lower cast by a creature you can see and targeting only you.
+
+Once the stone has canceled 50 levels of spells, it burns out and turns dull gray, losing its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can’t cancel it."
+40,87,342,"loun stone (mastery)",Item,"An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
+
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+Your proficiency bonus increases by 1 while this pale green prism orbits your head."
+41,88,343,"loun stone (regeneration)",Item,"An Ioun stone is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of Ioun stone exist, each type a distinct combination of shape and color.
+
+When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Dexterity (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
+
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.
+You regain 15 hit points at the end of each hour this pearly white spindle orbits your head, provided that you have at least 1 hit point."
+42,89,344,"Plate armor of etherealness",Item,"While you're wearing this armor, you can speak its command word as an action to gain the effect of the etherealness spell, which last for 10 minutes or until you remove the armor or use an action to speak the command word again. This property of the armor can't be used again until the next dawn.
+
+Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body."
+43,90,345,"Plate armor of resistance",Item,"You have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.
+
+d10	Damage Type
+1	Acid
+2	Cold
+3	Fire
+4	Force
+5	Lightning
+6	Necrotic
+7	Poison
+8	Psychic
+9	Radiant
+10	Thunder
+Applicable Armor:
+
+Name	Type	AC	Strength	Stealth
+Padded	Light	11 + Dex modifier	--	Disadvantage
+Leather	Light	11 + Dex modifier	--	--
+Studded Leather	Light	12 + Dex modifier	--	--
+Hide	Medium	12 + Dex modifier (max 2)	--	--
+Chain Shirt	Medium	13 + Dex modifier (max 2)	--	--
+Scale Mail	Medium	14 + Dex modifier (max 2)	--	Disadvantage
+Breastplate	Medium	14 + Dex modifier (max 2)	--	--
+Half Plate	Medium	15 + Dex modifier (max 2)	--	Disadvantage
+Ring Mail	Heavy	14	--	Disadvantage
+Chain Mail	Heavy	16	Strength 13	Disadvantage
+Splint	Heavy	17	Strength 15	Disadvantage
+Plate	Heavy	18	Strength 15	Disadvantage"
+44,91,346,"Ring of air elemental command",Item,"This ring is linked to the Elemental Plane of Air.
+
+While wearing this ring, you have advantage on attack rolls against air elementals, and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the Elemental Plane of Air.
+
+The ring has 5 charges. It regains 1d4 + 1 expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
+
+You can expend 2 of the ring's charges to cast dominate monster on an air elemental. In addition, when you fall, you descend 60 feet per round and take no damage from falling. You can also speak and understand Auran.
+
+If you help slay an air elemental while attuned to the ring, you gain access to the following additional properties:
+
+You have resistance to lightning damage.
+You have a flying speed equal to your walking speed and can hover.
+You can cast the following spells from the ring, expending the necessary number of charges: chain lightning (3 charges), gust of wind (2 charges), or wind wall (1 charge)."
+45,92,347,"Ring of earth elemental command",Item,"This ring is linked to the Elemental Plane of Earth.
+
+While wearing this ring, you have advantage on attack rolls against earth elementals, and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the Elemental Plane of Earth.
+
+The ring has 5 charges. It regains 1d4 + 1 expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
+
+You can expend 2 of the ring's charges to cast dominate monster on an earth elemental. In addition, you can move in difficult terrain that is composed of rubble, rocks, or dirt as if it were normal terrain. You can also speak and understand Terran.
+
+If you help slay an earth elemental while attuned to the ring, you gain access to the following additional properties:
+
+You have resistance to acid damage.
+You can move through solid earth or rock as if those areas were difficult terrain. If you end your turn there, you are shunted out to the nearest unoccupied space you last occupied.
+You can cast the following spells from the ring, expending the necessary number of charges: stone shape (2 charges), stoneskin (3 charges), or wall of stone (3 charges)."
+46,93,348,"Ring of fire elemental command",Item,"This ring is linked to the Elemental Plane of Fire.
+
+While wearing this ring, you have advantage on attack rolls against fire elementals, and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the Elemental Plane of Fire.
+
+The ring has 5 charges. It regains 1d4 + 1 expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
+
+You can expend 2 of the ring's charges to cast dominate monster on a fire elemental. In addition, you have resistance to fire damage. You can also speak and understand Ignan.
+
+If you help slay a fire elemental while attuned to the ring, you gain access to the following additional properties:
+
+You are immune to fire damage.
+You can cast the following spells from the ring, expending the necessary number of charges: burning hands (1 charge), fireball (2 charges), and wall of fire (3 charges)."
+47,94,349,"Ring of three wishes",Item,"While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the wish spell from it. The ring becomes nonmagical when you use the last charge."
+48,95,350,"Ring of water elemental command",Item,"This ring is linked to the Elemental Plane of Water.
+
+While wearing this ring, you have advantage on attack rolls against water elementals, and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the Elemental Plane of Water.
+
+The ring has 5 charges. It regains 1d4 + 1 expended charges daily at dawn. Spells cast from the ring have a save DC of 17.
+
+You can expend 2 of the ring's charges to cast dominate monster on a water elemental. In addition, you can stand on and walk across liquid surfaces as if they were solid ground. You can also speak and understand Aquan.
+
+If you help slay a water elemental while attuned to the ring, you gain access to the following additional properties:
+
+You can breathe underwater and have a swimming speed equal to your walking speed.
+You can cast the following spells from the ring, expending the necessary number of charges: create or destroy water (1 charge), control water (3 charges), ice storm (2 charges), or wall of ice (3 charges)."
+49,96,351,"Sphere of annihilation",Item,"This talisman is a mighty symbol of goodness. A creature that is neither good nor evil in alignment takes 6d6 radiant damage upon touching the talisman. An evil creature takes 8d6 radiant damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.
+
+If you are a good cleric or paladin, you can use the talisman as a holy symbol, and you gain a +2 bonus to spell attack rolls while you wear or hold it.
+
+The talisman has 7 charges. If you are wearing or holding it, you can use an action to expend 1 charge from it and choose one creature you can see on the ground within 120 feet of you. If the target is of evil alignment, a flaming fissure opens under it. The target must succeed on a DC 20 Dexterity saving throw or fall into the fissure and be destroyed, leaving no remains. The fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman disperses into motes of golden light and is destroyed."
+50,97,352,"Talisman of pure good",Item,"This talisman is a mighty symbol of goodness. A creature that is neither good nor evil in alignment takes 6d6 radiant damage upon touching the talisman. An evil creature takes 8d6 radiant damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.
+
+If you are a good cleric or paladin, you can use the talisman as a holy symbol, and you gain a +2 bonus to spell attack rolls while you wear or hold it.
+
+The talisman has 7 charges. If you are wearing or holding it, you can use an action to expend 1 charge from it and choose one creature you can see on the ground within 120 feet of you. If the target is of evil alignment, a flaming fissure opens under it. The target must succeed on a DC 20 Dexterity saving throw or fall into the fissure and be destroyed, leaving no remains. The fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman disperses into motes of golden light and is destroyed."
+51,98,353,"Talisman of the sphere",Item,"When you make an Intelligence (Arcana) check to control a sphere of annihilation while you are holding this talisman, you double your proficiency bonus on the check. In addition, when you start your turn with control over a sphere of annihilation, you can use an action to levitate it 10 feet plus a number of additional feet equal to 10 × your Intelligence modifier."
+52,99,354,"Talisman of ultimate evil",Item,"This item symbolizes unrepentant evil. A creature that is neither good nor evil in alignment takes 6d6 necrotic damage upon touching the talisman. A good creature takes 8d6 necrotic damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.
+
+If you are an evil cleric or paladin, you can use the talisman as a holy symbol, and you gain a +2 bonus to spell attack rolls while you wear or hold it.
+
+The talisman has 6 charges. If you are wearing or holding it, you can use an action to expend 1 charge from the talisman and choose one creature you can see on the ground within 120 feet of you. If the target is of good alignment, a flaming fissure opens under it. The target must succeed on a DC 20 Dexterity saving throw or fall into the fissure and be destroyed, leaving no remains. The fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman dissolves into foul-smelling slime and is destroyed."
+53,100,355,"Tome of the stilled tongue",Item,"This thick leather-bound volume has a desiccated tongue pinned to the front cover. Five of these tomes exist, and it's unknown which one is the original. The grisly cover decoration on the first tome of the stilled tongue once belonged to a treacherous former servant of the lich-god Vecna, keeper of secrets. The tongues pinned to the covers of the four copies came from other spellcasters who crossed Vecna. The first few pages of each tome are filled with indecipherable scrawls. The remaining pages are blank and pristine.
+
+If you can attune to this item, you can use it as a spellbook and an arcane focus. In addition, while holding the tome, you can use a bonus action to cast a spell you have written in this tome, without expending a spell slot or using any verbal or somatic components Once used, this property of the tome can't be used again until the next dawn.
+
+While attuned to the book, you can remove the tongue from the book's cover. If you do so, all spells written in the book are permanently erased.
+
+Vecna watches anyone using this tome. He can also write cryptic messages in the book. These messages appear at midnight and fade away after they are read."
